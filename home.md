@@ -1,5 +1,5 @@
 ---
-title: *Welcome
+title: Welcome
 description: A simple automatic wiki site
 published: true
 date: 2022-05-01T09:44:08.097Z
