@@ -2,13 +2,13 @@
 title: 俄菲翁尼厄斯 - Ophioneus
 description: 6.0 - 厄尔庇斯
 published: true
-date: 2022-05-01T22:52:17.000Z
+date: 2022-05-01T23:10:41.000Z
 tags: ffxiv, game
 editor: markdown
 dateCreated: 2022-01-01T00:00:00.000Z
 ---
 
-> 本页面由自动化程序生成于 2022年5月1日 22:52
+> 本页面由自动化程序生成于 2022年5月1日 23:10
 > 内容可能存在错误，如有bug请提交issue至：https://github.com/Eroleice/doc-pi/issues
 {.is-warning}
 
@@ -451,17 +451,17 @@ concise Unicorn
 
 @Garuda
 0 is 冷却
-8 is 可以刷新
+7 is 可以刷新
 24 is {hidden}
 
 @Aegis
 0 is 冷却
-10 is 可以刷新
+9 is 可以刷新
 24 is {hidden}
 
 @Gungnir
 0 is 冷却
-19 is 可以刷新
+18 is 可以刷新
 24 is {hidden}
 
 @Atomos
@@ -471,7 +471,7 @@ concise Unicorn
 
 @Carbuncle
 0 is 冷却
-20 is 可以刷新
+19 is 可以刷新
 24 is {hidden}
 
 @Kujata
@@ -533,7 +533,7 @@ concise Zeromus
 
 @Fenrir
 0 is 冷却
-12 is 可以刷新
+11 is 可以刷新
 24 is {hidden}
 
 @Tiamat
@@ -553,7 +553,7 @@ concise Zeromus
 
 @Valefor
 0 is 冷却
-22 is 可以刷新
+21 is 可以刷新
 24 is {hidden}
 
 @Zeromus
@@ -596,7 +596,7 @@ concise Titan
 
 @Asura
 0 is 冷却
-12 is 可以刷新
+11 is 可以刷新
 24 is {hidden}
 
 @Mandragora
@@ -606,7 +606,7 @@ concise Titan
 
 @Pandaemonium
 0 is 冷却
-17 is 可以刷新
+16 is 可以刷新
 24 is {hidden}
 
 @Titan
@@ -658,7 +658,7 @@ concise Siren
 
 @Cactuar
 0 is 冷却
-16 is 可以刷新
+15 is 可以刷新
 24 is {hidden}
 
 @Midgardsormr
@@ -712,7 +712,7 @@ concise Ultros
 
 @Behemoth
 0 is 冷却
-10 is 可以刷新
+9 is 可以刷新
 24 is {hidden}
 
 @Lamia
@@ -829,7 +829,7 @@ concise Spriggan
 
 @Ragnarok
 0 is 冷却
-23 is 可以刷新
+22 is 可以刷新
 24 is {hidden}
 
 @Spriggan
@@ -863,12 +863,12 @@ concise Zodiark
 
 @Shiva
 0 is 冷却
-19 is 可以刷新
+18 is 可以刷新
 24 is {hidden}
 
 @Lich
 0 is 冷却
-20 is 可以刷新
+19 is 可以刷新
 24 is {hidden}
 
 @Twintania
@@ -916,7 +916,7 @@ concise Zurvan
 
 @Sophia
 0 is 冷却
-10 is 可以刷新
+9 is 可以刷新
 24 is {hidden}
 
 @Zurvan

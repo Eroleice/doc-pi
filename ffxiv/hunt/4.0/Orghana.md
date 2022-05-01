@@ -2,13 +2,13 @@
 title: 兀鲁忽乃朝鲁 - Orghana
 description: 4.0 - 太阳神草原
 published: true
-date: 2022-05-01T22:52:17.000Z
+date: 2022-05-01T23:10:41.000Z
 tags: ffxiv, game
 editor: markdown
 dateCreated: 2022-01-01T00:00:00.000Z
 ---
 
-> 本页面由自动化程序生成于 2022年5月1日 22:52
+> 本页面由自动化程序生成于 2022年5月1日 23:10
 > 内容可能存在错误，如有bug请提交issue至：https://github.com/Eroleice/doc-pi/issues
 {.is-warning}
 
@@ -232,7 +232,7 @@ concise Unicorn
 
 @Aegis
 0 is 冷却
-18 is 可以刷新
+17 is 可以刷新
 24 is {hidden}
 
 @Unicorn
@@ -311,12 +311,12 @@ concise Zeromus
 
 @Ifrit
 0 is 冷却
-19 is 可以刷新
+18 is 可以刷新
 24 is {hidden}
 
 @Durandal
 0 is 冷却
-23 is 可以刷新
+22 is 可以刷新
 24 is {hidden}
 
 @Zeromus
@@ -364,12 +364,12 @@ concise Titan
 
 @Shinryu
 0 is 冷却
-18 is 可以刷新
+17 is 可以刷新
 24 is {hidden}
 
 @Chocobo
 0 is 冷却
-23 is 可以刷新
+22 is 可以刷新
 24 is {hidden}
 
 @Asura
@@ -529,7 +529,7 @@ concise Zalera
 
 @Malboro
 0 is 冷却
-13 is 可以刷新
+12 is 可以刷新
 24 is {hidden}
 
 @Balmung
@@ -539,7 +539,7 @@ concise Zalera
 
 @Goblin
 0 is 冷却
-14 is 可以刷新
+13 is 可以刷新
 24 is {hidden}
 
 @Mateus
@@ -549,7 +549,7 @@ concise Zalera
 
 @Coeurl
 0 is 冷却
-17 is 可以刷新
+16 is 可以刷新
 24 is {hidden}
 
 @Diabolos
@@ -588,7 +588,7 @@ concise Spriggan
 
 @Ragnarok
 0 is 冷却
-16 is 可以刷新
+15 is 可以刷新
 24 is {hidden}
 
 @Omega
@@ -625,7 +625,7 @@ concise Zodiark
 
 @Zodiark
 0 is 冷却
-18 is 可以刷新
+17 is 可以刷新
 24 is {hidden}
 
 @Odin
@@ -666,12 +666,12 @@ concise Zurvan
 
 @Sophia
 0 is 可以刷新
-17 is 强制刷新
+16 is 强制刷新
 24 is {hidden}
 
 @Zurvan
 0 is 可以刷新
-23 is 强制刷新
+22 is 强制刷新
 24 is {hidden}
 
 @Ravana

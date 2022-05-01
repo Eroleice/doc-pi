@@ -2,13 +2,13 @@
 title: 神穆尔鸟 - Senmurv
 description: 3.0 - 龙堡参天高地
 published: true
-date: 2022-05-01T22:52:17.000Z
+date: 2022-05-01T23:10:40.000Z
 tags: ffxiv, game
 editor: markdown
 dateCreated: 2022-01-01T00:00:00.000Z
 ---
 
-> 本页面由自动化程序生成于 2022年5月1日 22:52
+> 本页面由自动化程序生成于 2022年5月1日 23:10
 > 内容可能存在错误，如有bug请提交issue至：https://github.com/Eroleice/doc-pi/issues
 {.is-warning}
 
@@ -227,7 +227,7 @@ concise Unicorn
 
 @Atomos
 0 is 可以刷新
-20 is 强制刷新
+19 is 强制刷新
 24 is {hidden}
 
 @Garuda
@@ -285,11 +285,10 @@ concise Zeromus
 
 @Bahamut
 0 is 可以刷新
-18 is 强制刷新
+17 is 强制刷新
 24 is {hidden}
 
 @Zeromus
-0 is 冷却
 0 is 可以刷新
 24 is {hidden}
 
@@ -414,7 +413,7 @@ concise Siren
 
 @Siren
 0 is 冷却
-4 is 可以刷新
+3 is 可以刷新
 24 is {hidden}
 
 @Faerie
@@ -636,7 +635,7 @@ concise Zurvan
 
 @Sephirot
 0 is 冷却
-21 is 可以刷新
+20 is 可以刷新
 24 is {hidden}
 
 @Ravana

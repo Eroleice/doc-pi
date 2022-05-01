@@ -2,13 +2,13 @@
 title: 伊休妲 - Ixtab
 description: 5.0 - 拉凯提卡大森林
 published: true
-date: 2022-05-01T22:52:17.000Z
+date: 2022-05-01T23:10:41.000Z
 tags: ffxiv, game
 editor: markdown
 dateCreated: 2022-01-01T00:00:00.000Z
 ---
 
-> 本页面由自动化程序生成于 2022年5月1日 22:52
+> 本页面由自动化程序生成于 2022年5月1日 23:10
 > 内容可能存在错误，如有bug请提交issue至：https://github.com/Eroleice/doc-pi/issues
 {.is-warning}
 
@@ -142,10 +142,6 @@ concise 海猫茶屋
 concise 柔风海湾
 concise 琥珀原
 
-@琥珀原
-0 is 冷却
-24 is {hidden}
-
 @紫水栈桥
 0 is 冷却
 24 is {hidden}
@@ -167,6 +163,10 @@ concise 琥珀原
 24 is {hidden}
 
 @柔风海湾
+0 is 冷却
+24 is {hidden}
+
+@琥珀原
 0 is 冷却
 24 is {hidden}
 
@@ -232,17 +232,17 @@ concise Unicorn
 
 @Aegis
 0 is 冷却
-13 is 可以刷新
+12 is 可以刷新
 24 is {hidden}
 
 @Garuda
 0 is 冷却
-14 is 可以刷新
+13 is 可以刷新
 24 is {hidden}
 
 @Carbuncle
 0 is 冷却
-16 is 可以刷新
+15 is 可以刷新
 24 is {hidden}
 
 @Atomos
@@ -293,7 +293,7 @@ concise Zeromus
 
 @Zeromus
 0 is 冷却
-13 is 可以刷新
+12 is 可以刷新
 24 is {hidden}
 
 @Ifrit
@@ -313,12 +313,12 @@ concise Zeromus
 
 @Alexander
 0 is 冷却
-23 is 可以刷新
+22 is 可以刷新
 24 is {hidden}
 
 @Fenrir
 0 is 冷却
-23 is 可以刷新
+22 is 可以刷新
 24 is {hidden}
 
 @Yojimbo
@@ -328,6 +328,7 @@ concise Zeromus
 
 @Bahamut
 0 is 冷却
+23 is 可以刷新
 24 is {hidden}
 
 @Tiamat
@@ -370,7 +371,7 @@ concise Titan
 
 @Asura
 0 is 冷却
-15 is 可以刷新
+14 is 可以刷新
 24 is {hidden}
 
 @Anima
@@ -432,7 +433,7 @@ concise Siren
 
 @Sargatanas
 0 is 冷却
-17 is 可以刷新
+16 is 可以刷新
 24 is {hidden}
 
 @Gilgamesh
@@ -486,7 +487,7 @@ concise Ultros
 
 @Excalibur
 0 is 冷却
-20 is 可以刷新
+19 is 可以刷新
 24 is {hidden}
 
 @Hyperion
@@ -538,7 +539,7 @@ concise Zalera
 
 @Malboro
 0 is 冷却
-11 is 可以刷新
+10 is 可以刷新
 24 is {hidden}
 
 @Goblin
@@ -558,7 +559,7 @@ concise Zalera
 
 @Zalera
 0 is 冷却
-18 is 可以刷新
+17 is 可以刷新
 24 is {hidden}
 
 @Mateus
@@ -568,6 +569,7 @@ concise Zalera
 
 @Balmung
 0 is 冷却
+23 is 可以刷新
 24 is {hidden}
 
 @Brynhildr
@@ -592,7 +594,7 @@ concise Spriggan
 
 @Ragnarok
 0 is 冷却
-16 is 可以刷新
+15 is 可以刷新
 24 is {hidden}
 
 @Spriggan
@@ -602,11 +604,12 @@ concise Spriggan
 
 @Louisoix
 0 is 冷却
-21 is 可以刷新
+20 is 可以刷新
 24 is {hidden}
 
 @Moogle
 0 is 冷却
+23 is 可以刷新
 24 is {hidden}
 
 @Cerberus
@@ -650,7 +653,7 @@ concise Zodiark
 
 @Odin
 0 is 冷却
-11 is 可以刷新
+10 is 可以刷新
 24 is {hidden}
 
 @Shiva

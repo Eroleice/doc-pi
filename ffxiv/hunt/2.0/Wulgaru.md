@@ -2,13 +2,13 @@
 title: 乌尔伽鲁 - Wulgaru
 description: 2.0 - 黑衣森林东部林区
 published: true
-date: 2022-05-01T22:52:17.000Z
+date: 2022-05-01T23:10:40.000Z
 tags: ffxiv, game
 editor: markdown
 dateCreated: 2022-01-01T00:00:00.000Z
 ---
 
-> 本页面由自动化程序生成于 2022年5月1日 22:52
+> 本页面由自动化程序生成于 2022年5月1日 23:10
 > 内容可能存在错误，如有bug请提交issue至：https://github.com/Eroleice/doc-pi/issues
 {.is-warning}
 
@@ -45,7 +45,7 @@ concise 晨曦王座
 
 @红玉海
 0 is 冷却
-22 is 可以刷新
+21 is 可以刷新
 24 is {hidden}
 
 @晨曦王座
@@ -290,7 +290,7 @@ concise Zeromus
 
 @Ifrit
 0 is 可以刷新
-4 is 强制刷新
+3 is 强制刷新
 24 is {hidden}
 
 @Valefor

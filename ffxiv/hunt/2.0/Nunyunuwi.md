@@ -2,13 +2,13 @@
 title: 努纽努维 - Nunyunuwi
 description: 2.0 - 南萨纳兰
 published: true
-date: 2022-05-01T22:52:17.000Z
+date: 2022-05-01T23:10:40.000Z
 tags: ffxiv, game
 editor: markdown
 dateCreated: 2022-01-01T00:00:00.000Z
 ---
 
-> 本页面由自动化程序生成于 2022年5月1日 22:52
+> 本页面由自动化程序生成于 2022年5月1日 23:10
 > 内容可能存在错误，如有bug请提交issue至：https://github.com/Eroleice/doc-pi/issues
 {.is-warning}
 
@@ -60,7 +60,7 @@ concise 晨曦王座
 
 @萌芽池
 0 is 可以刷新
-4 is 强制刷新
+3 is 强制刷新
 24 is {hidden}
 
 @拉诺西亚
@@ -112,7 +112,7 @@ concise 梦羽宝境
 
 @旅人栈桥
 0 is 可以刷新
-5 is 强制刷新
+4 is 强制刷新
 24 is {hidden}
 
 @拂晓之间
@@ -150,7 +150,7 @@ concise 琥珀原
 
 @摩杜纳
 0 is 可以刷新
-1 is 强制刷新
+0 is 强制刷新
 24 is {hidden}
 
 @海猫茶屋
@@ -199,7 +199,7 @@ concise 红茶川
 
 @太阳海岸
 0 is 可以刷新
-8 is 强制刷新
+7 is 强制刷新
 24 is {hidden}
 
 @银泪湖
@@ -241,13 +241,13 @@ concise Unicorn
 
 @Atomos
 0 is 冷却
-9 is 可以刷新
-19 is 强制刷新
+8 is 可以刷新
+18 is 强制刷新
 24 is {hidden}
 
 @Kujata
 0 is 冷却
-18 is 可以刷新
+17 is 可以刷新
 24 is {hidden}
 
 @Typhon
@@ -295,7 +295,7 @@ concise Zeromus
 
 @Yojimbo
 0 is 可以刷新
-7 is 强制刷新
+6 is 强制刷新
 24 is {hidden}
 
 @Valefor
@@ -304,9 +304,8 @@ concise Zeromus
 24 is {hidden}
 
 @Alexander
-0 is 冷却
 0 is 可以刷新
-10 is 强制刷新
+9 is 强制刷新
 24 is {hidden}
 
 @Bahamut
@@ -322,7 +321,7 @@ concise Zeromus
 
 @Ifrit
 0 is 冷却
-23 is 可以刷新
+22 is 可以刷新
 24 is {hidden}
 
 @Ridill
@@ -357,7 +356,7 @@ concise Titan
 
 @Anima
 0 is 冷却
-21 is 可以刷新
+20 is 可以刷新
 24 is {hidden}
 
 @Asura
@@ -393,14 +392,14 @@ concise Siren
 
 @Faerie
 0 is 冷却
-5 is 可以刷新
-15 is 强制刷新
+4 is 可以刷新
+14 is 强制刷新
 24 is {hidden}
 
 @Gilgamesh
 0 is 冷却
-9 is 可以刷新
-19 is 强制刷新
+8 is 可以刷新
+18 is 强制刷新
 24 is {hidden}
 
 @Sargatanas
@@ -451,9 +450,8 @@ concise Leviathan
 concise Ultros
 
 @Ultros
-0 is 冷却
 0 is 可以刷新
-10 is 强制刷新
+9 is 强制刷新
 24 is {hidden}
 
 @Excalibur
@@ -464,8 +462,8 @@ concise Ultros
 
 @Lamia
 0 is 冷却
-11 is 可以刷新
-21 is 强制刷新
+10 is 可以刷新
+20 is 强制刷新
 24 is {hidden}
 
 @Exodus
@@ -498,8 +496,8 @@ concise Zalera
 
 @Goblin
 0 is 冷却
-8 is 可以刷新
-18 is 强制刷新
+7 is 可以刷新
+17 is 强制刷新
 24 is {hidden}
 
 @Zalera
@@ -541,13 +539,13 @@ concise Spriggan
 
 @Ragnarok
 0 is 可以刷新
-9 is 强制刷新
+8 is 强制刷新
 24 is {hidden}
 
 @Spriggan
 0 is 冷却
-2 is 可以刷新
-12 is 强制刷新
+1 is 可以刷新
+11 is 强制刷新
 24 is {hidden}
 
 @Omega
@@ -564,8 +562,8 @@ concise Spriggan
 
 @Cerberus
 0 is 冷却
-8 is 可以刷新
-18 is 强制刷新
+7 is 可以刷新
+17 is 强制刷新
 24 is {hidden}
 
 @enduml
@@ -586,8 +584,8 @@ concise Zodiark
 
 @Shiva
 0 is 冷却
-1 is 可以刷新
-11 is 强制刷新
+0 is 可以刷新
+10 is 强制刷新
 24 is {hidden}
 
 @Twintania
@@ -604,7 +602,7 @@ concise Zodiark
 
 @Odin
 0 is 冷却
-17 is 可以刷新
+16 is 可以刷新
 24 is {hidden}
 
 @Zodiark

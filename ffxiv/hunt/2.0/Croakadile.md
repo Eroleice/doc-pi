@@ -2,13 +2,13 @@
 title: 咕尔呱洛斯 - Croakadile
 description: 2.0 - 拉诺西亚低地
 published: true
-date: 2022-05-01T22:52:17.000Z
+date: 2022-05-01T23:10:40.000Z
 tags: ffxiv, game
 editor: markdown
 dateCreated: 2022-01-01T00:00:00.000Z
 ---
 
-> 本页面由自动化程序生成于 2022年5月1日 22:52
+> 本页面由自动化程序生成于 2022年5月1日 23:10
 > 内容可能存在错误，如有bug请提交issue至：https://github.com/Eroleice/doc-pi/issues
 {.is-warning}
 
@@ -43,14 +43,6 @@ concise 宇宙和音
 concise 沃仙曦染
 concise 晨曦王座
 
-@红玉海
-0 is 冷却
-24 is {hidden}
-
-@宇宙和音
-0 is 冷却
-24 is {hidden}
-
 @神意之地
 0 is 冷却
 24 is {hidden}
@@ -75,6 +67,14 @@ concise 晨曦王座
 0 is 冷却
 24 is {hidden}
 
+@红玉海
+0 is 冷却
+24 is {hidden}
+
+@宇宙和音
+0 is 冷却
+24 is {hidden}
+
 @enduml
 ```
 
@@ -93,24 +93,16 @@ concise 拂晓之间
 concise 龙巢神殿
 concise 梦羽宝境
 
-@拂晓之间
-0 is 冷却
-3 is 可以刷新
-3 is 强制刷新
-24 is {hidden}
-
 @旅人栈桥
 0 is 冷却
 3 is 可以刷新
 3 is 强制刷新
 24 is {hidden}
 
-@龙巢神殿
+@拂晓之间
 0 is 冷却
-24 is {hidden}
-
-@梦羽宝境
-0 is 冷却
+3 is 可以刷新
+3 is 强制刷新
 24 is {hidden}
 
 @白金幻象
@@ -126,6 +118,14 @@ concise 梦羽宝境
 24 is {hidden}
 
 @白银乡
+0 is 冷却
+24 is {hidden}
+
+@龙巢神殿
+0 is 冷却
+24 is {hidden}
+
+@梦羽宝境
 0 is 冷却
 24 is {hidden}
 
@@ -328,12 +328,6 @@ concise Zeromus
 1 is 强制刷新
 24 is {hidden}
 
-@Valefor
-0 is 冷却
-3 is 可以刷新
-3 is 强制刷新
-24 is {hidden}
-
 @Ridill
 0 is 冷却
 3 is 可以刷新
@@ -353,6 +347,12 @@ concise Zeromus
 24 is {hidden}
 
 @Tiamat
+0 is 冷却
+3 is 可以刷新
+3 is 强制刷新
+24 is {hidden}
+
+@Valefor
 0 is 冷却
 3 is 可以刷新
 3 is 强制刷新
@@ -544,13 +544,13 @@ concise Ultros
 1 is 强制刷新
 24 is {hidden}
 
-@Exodus
+@Lamia
 0 is 冷却
 3 is 可以刷新
 3 is 强制刷新
 24 is {hidden}
 
-@Lamia
+@Exodus
 0 is 冷却
 3 is 可以刷新
 3 is 强制刷新
@@ -656,9 +656,8 @@ concise Spriggan
 24 is {hidden}
 
 @Omega
-0 is 冷却
-3 is 可以刷新
-3 is 强制刷新
+0 is 可以刷新
+1 is 强制刷新
 24 is {hidden}
 
 @enduml
@@ -722,18 +721,6 @@ concise Sephirot
 concise Sophia
 concise Zurvan
 
-@Sophia
-0 is 冷却
-3 is 可以刷新
-3 is 强制刷新
-24 is {hidden}
-
-@Zurvan
-0 is 冷却
-3 is 可以刷新
-3 is 强制刷新
-24 is {hidden}
-
 @Ravana
 0 is 冷却
 3 is 可以刷新
@@ -747,6 +734,18 @@ concise Zurvan
 24 is {hidden}
 
 @Sephirot
+0 is 冷却
+3 is 可以刷新
+3 is 强制刷新
+24 is {hidden}
+
+@Sophia
+0 is 冷却
+3 is 可以刷新
+3 is 强制刷新
+24 is {hidden}
+
+@Zurvan
 0 is 冷却
 3 is 可以刷新
 3 is 强制刷新

@@ -2,13 +2,13 @@
 title: 南迪 - Nandi
 description: 2.0 - 拉诺西亚高地
 published: true
-date: 2022-05-01T22:52:17.000Z
+date: 2022-05-01T23:10:40.000Z
 tags: ffxiv, game
 editor: markdown
 dateCreated: 2022-01-01T00:00:00.000Z
 ---
 
-> 本页面由自动化程序生成于 2022年5月1日 22:52
+> 本页面由自动化程序生成于 2022年5月1日 23:10
 > 内容可能存在错误，如有bug请提交issue至：https://github.com/Eroleice/doc-pi/issues
 {.is-warning}
 
@@ -223,7 +223,7 @@ concise Unicorn
 
 @Kujata
 0 is 可以刷新
-3 is 强制刷新
+2 is 强制刷新
 24 is {hidden}
 
 @Garuda
@@ -237,9 +237,8 @@ concise Unicorn
 24 is {hidden}
 
 @Gungnir
-0 is 冷却
 0 is 可以刷新
-6 is 强制刷新
+5 is 强制刷新
 24 is {hidden}
 
 @Aegis
@@ -302,7 +301,7 @@ concise Zeromus
 
 @Bahamut
 0 is 可以刷新
-4 is 强制刷新
+3 is 强制刷新
 24 is {hidden}
 
 @Tiamat
@@ -322,20 +321,20 @@ concise Zeromus
 
 @Ultima
 0 is 冷却
-1 is 可以刷新
-7 is 强制刷新
+0 is 可以刷新
+6 is 强制刷新
 24 is {hidden}
 
 @Alexander
 0 is 冷却
-1 is 可以刷新
-7 is 强制刷新
+0 is 可以刷新
+6 is 强制刷新
 24 is {hidden}
 
 @Valefor
 0 is 冷却
-1 is 可以刷新
-7 is 强制刷新
+0 is 可以刷新
+6 is 强制刷新
 24 is {hidden}
 
 @Durandal
@@ -466,7 +465,7 @@ concise Siren
 
 @Siren
 0 is 可以刷新
-5 is 强制刷新
+4 is 强制刷新
 24 is {hidden}
 
 @Sargatanas
@@ -534,8 +533,8 @@ concise Ultros
 
 @Leviathan
 0 is 冷却
-2 is 可以刷新
-8 is 强制刷新
+1 is 可以刷新
+7 is 强制刷新
 24 is {hidden}
 
 @Famfrit
@@ -552,14 +551,14 @@ concise Ultros
 
 @Excalibur
 0 is 冷却
-3 is 可以刷新
-9 is 强制刷新
+2 is 可以刷新
+8 is 强制刷新
 24 is {hidden}
 
 @Ultros
 0 is 冷却
-3 is 可以刷新
-9 is 强制刷新
+2 is 可以刷新
+8 is 强制刷新
 24 is {hidden}
 
 @enduml
@@ -592,7 +591,7 @@ concise Zalera
 
 @Zalera
 0 is 可以刷新
-5 is 强制刷新
+4 is 强制刷新
 24 is {hidden}
 
 @Balmung
@@ -618,8 +617,8 @@ concise Zalera
 
 @Coeurl
 0 is 冷却
-3 is 可以刷新
-9 is 强制刷新
+2 is 可以刷新
+8 is 强制刷新
 24 is {hidden}
 
 @enduml
@@ -650,7 +649,7 @@ concise Spriggan
 
 @Ragnarok
 0 is 可以刷新
-5 is 强制刷新
+4 is 强制刷新
 24 is {hidden}
 
 @Louisoix
@@ -660,8 +659,8 @@ concise Spriggan
 
 @Omega
 0 is 冷却
-1 is 可以刷新
-7 is 强制刷新
+0 is 可以刷新
+6 is 强制刷新
 24 is {hidden}
 
 @Spriggan
@@ -747,8 +746,8 @@ concise Zurvan
 
 @Ravana
 0 is 冷却
-2 is 可以刷新
-8 is 强制刷新
+1 is 可以刷新
+7 is 强制刷新
 24 is {hidden}
 
 @Zurvan

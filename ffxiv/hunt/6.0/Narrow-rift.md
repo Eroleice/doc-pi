@@ -2,13 +2,13 @@
 title: 狭缝 - Narrow-rift
 description: 6.0 - 天外天垓
 published: true
-date: 2022-05-01T22:52:17.000Z
+date: 2022-05-01T23:10:41.000Z
 tags: ffxiv, game
 editor: markdown
 dateCreated: 2022-01-01T00:00:00.000Z
 ---
 
-> 本页面由自动化程序生成于 2022年5月1日 22:52
+> 本页面由自动化程序生成于 2022年5月1日 23:10
 > 内容可能存在错误，如有bug请提交issue至：https://github.com/Eroleice/doc-pi/issues
 {.is-warning}
 
@@ -461,7 +461,7 @@ concise Unicorn
 
 @Garuda
 0 is 冷却
-11 is 可以刷新
+10 is 可以刷新
 24 is {hidden}
 
 @Carbuncle
@@ -587,7 +587,7 @@ concise Titan
 
 @Anima
 0 is 冷却
-8 is 可以刷新
+7 is 可以刷新
 24 is {hidden}
 
 @Asura
@@ -602,7 +602,7 @@ concise Titan
 
 @Ixion
 0 is 冷却
-15 is 可以刷新
+14 is 可以刷新
 24 is {hidden}
 
 @Shinryu
@@ -780,12 +780,12 @@ concise Zalera
 
 @Zalera
 0 is 冷却
-15 is 可以刷新
+14 is 可以刷新
 24 is {hidden}
 
 @Mateus
 0 is 冷却
-22 is 可以刷新
+21 is 可以刷新
 24 is {hidden}
 
 @Balmung
@@ -825,7 +825,7 @@ concise Spriggan
 
 @Louisoix
 0 is 冷却
-19 is 可以刷新
+18 is 可以刷新
 24 is {hidden}
 
 @Moogle
@@ -835,7 +835,7 @@ concise Spriggan
 
 @Omega
 0 is 冷却
-20 is 可以刷新
+19 is 可以刷新
 24 is {hidden}
 
 @Cerberus
@@ -861,12 +861,12 @@ concise Zodiark
 
 @Phoenix
 0 is 冷却
-11 is 可以刷新
+10 is 可以刷新
 24 is {hidden}
 
 @Twintania
 0 is 冷却
-11 is 可以刷新
+10 is 可以刷新
 24 is {hidden}
 
 @Zodiark

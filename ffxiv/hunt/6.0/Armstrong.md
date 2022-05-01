@@ -2,13 +2,13 @@
 title: 阿姆斯特朗 - Armstrong
 description: 6.0 - 加雷马
 published: true
-date: 2022-05-01T22:52:17.000Z
+date: 2022-05-01T23:10:41.000Z
 tags: ffxiv, game
 editor: markdown
 dateCreated: 2022-01-01T00:00:00.000Z
 ---
 
-> 本页面由自动化程序生成于 2022年5月1日 22:52
+> 本页面由自动化程序生成于 2022年5月1日 23:10
 > 内容可能存在错误，如有bug请提交issue至：https://github.com/Eroleice/doc-pi/issues
 {.is-warning}
 
@@ -461,16 +461,17 @@ concise Unicorn
 
 @Aegis
 0 is 冷却
-16 is 可以刷新
+15 is 可以刷新
 24 is {hidden}
 
 @Unicorn
 0 is 冷却
-19 is 可以刷新
+18 is 可以刷新
 24 is {hidden}
 
 @Kujata
 0 is 冷却
+23 is 可以刷新
 24 is {hidden}
 
 @Ramuh
@@ -521,7 +522,7 @@ concise Zeromus
 
 @Ultima
 0 is 冷却
-10 is 可以刷新
+9 is 可以刷新
 24 is {hidden}
 
 @Ridill
@@ -551,7 +552,7 @@ concise Zeromus
 
 @Durandal
 0 is 冷却
-21 is 可以刷新
+20 is 可以刷新
 24 is {hidden}
 
 @Fenrir
@@ -600,11 +601,12 @@ concise Titan
 
 @Chocobo
 0 is 冷却
-22 is 可以刷新
+21 is 可以刷新
 24 is {hidden}
 
 @Asura
 0 is 冷却
+23 is 可以刷新
 24 is {hidden}
 
 @Belias
@@ -714,17 +716,17 @@ concise Ultros
 
 @Exodus
 0 is 冷却
-20 is 可以刷新
+19 is 可以刷新
 24 is {hidden}
 
 @Lamia
 0 is 冷却
-21 is 可以刷新
+20 is 可以刷新
 24 is {hidden}
 
 @Behemoth
 0 is 冷却
-23 is 可以刷新
+22 is 可以刷新
 24 is {hidden}
 
 @Hyperion
@@ -763,7 +765,7 @@ concise Zalera
 
 @Zalera
 0 is 冷却
-9 is 可以刷新
+8 is 可以刷新
 24 is {hidden}
 
 @Goblin
@@ -783,7 +785,7 @@ concise Zalera
 
 @Coeurl
 0 is 冷却
-16 is 可以刷新
+15 is 可以刷新
 24 is {hidden}
 
 @Diabolos
@@ -793,7 +795,7 @@ concise Zalera
 
 @Mateus
 0 is 冷却
-22 is 可以刷新
+21 is 可以刷新
 24 is {hidden}
 
 @Brynhildr
@@ -818,7 +820,7 @@ concise Spriggan
 
 @Cerberus
 0 is 冷却
-15 is 可以刷新
+14 is 可以刷新
 24 is {hidden}
 
 @Ragnarok

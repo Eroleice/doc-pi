@@ -2,13 +2,13 @@
 title: 凯撒贝希摩斯 - kaiser behemoth
 description: 3.0 - 库尔札斯西部高地
 published: true
-date: 2022-05-01T22:52:17.000Z
+date: 2022-05-01T23:10:40.000Z
 tags: ffxiv, game
 editor: markdown
 dateCreated: 2022-01-01T00:00:00.000Z
 ---
 
-> 本页面由自动化程序生成于 2022年5月1日 22:52
+> 本页面由自动化程序生成于 2022年5月1日 23:10
 > 内容可能存在错误，如有bug请提交issue至：https://github.com/Eroleice/doc-pi/issues
 {.is-warning}
 
@@ -225,11 +225,6 @@ concise Tonberry
 concise Typhon
 concise Unicorn
 
-@Gungnir
-0 is 可以刷新
-0 is 强制刷新
-24 is {hidden}
-
 @Unicorn
 0 is 冷却
 9 is 可以刷新
@@ -242,12 +237,12 @@ concise Unicorn
 
 @Garuda
 0 is 冷却
-11 is 可以刷新
+10 is 可以刷新
 24 is {hidden}
 
 @Carbuncle
 0 is 冷却
-14 is 可以刷新
+13 is 可以刷新
 24 is {hidden}
 
 @Typhon
@@ -259,6 +254,10 @@ concise Unicorn
 24 is {hidden}
 
 @Kujata
+0 is 冷却
+24 is {hidden}
+
+@Gungnir
 0 is 冷却
 24 is {hidden}
 
@@ -285,7 +284,7 @@ concise Zeromus
 
 @Tiamat
 0 is 可以刷新
-8 is 强制刷新
+7 is 强制刷新
 24 is {hidden}
 
 @Alexander
@@ -299,7 +298,7 @@ concise Zeromus
 
 @Zeromus
 0 is 冷却
-12 is 可以刷新
+11 is 可以刷新
 24 is {hidden}
 
 @Ultima
@@ -366,7 +365,7 @@ concise Titan
 
 @Ixion
 0 is 冷却
-15 is 可以刷新
+14 is 可以刷新
 24 is {hidden}
 
 @Shinryu
@@ -381,7 +380,7 @@ concise Titan
 
 @Pandaemonium
 0 is 冷却
-20 is 可以刷新
+19 is 可以刷新
 24 is {hidden}
 
 @Belias
@@ -551,7 +550,7 @@ concise Zalera
 
 @Mateus
 0 is 冷却
-22 is 可以刷新
+21 is 可以刷新
 24 is {hidden}
 
 @Balmung
@@ -639,7 +638,7 @@ concise Zodiark
 
 @Odin
 0 is 冷却
-17 is 可以刷新
+16 is 可以刷新
 24 is {hidden}
 
 @Lich
@@ -667,7 +666,7 @@ concise Zurvan
 
 @Zurvan
 0 is 可以刷新
-18 is 强制刷新
+17 is 强制刷新
 24 is {hidden}
 
 @Ravana

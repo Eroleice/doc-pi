@@ -2,13 +2,13 @@
 title: 伽马 - Gamma
 description: 4.0 - 延夏
 published: true
-date: 2022-05-01T22:52:17.000Z
+date: 2022-05-01T23:10:41.000Z
 tags: ffxiv, game
 editor: markdown
 dateCreated: 2022-01-01T00:00:00.000Z
 ---
 
-> 本页面由自动化程序生成于 2022年5月1日 22:52
+> 本页面由自动化程序生成于 2022年5月1日 23:10
 > 内容可能存在错误，如有bug请提交issue至：https://github.com/Eroleice/doc-pi/issues
 {.is-warning}
 
@@ -227,7 +227,7 @@ concise Unicorn
 
 @Atomos
 0 is 冷却
-10 is 可以刷新
+9 is 可以刷新
 24 is {hidden}
 
 @Aegis
@@ -247,7 +247,7 @@ concise Unicorn
 
 @Typhon
 0 is 冷却
-19 is 可以刷新
+18 is 可以刷新
 24 is {hidden}
 
 @Gungnir
@@ -295,7 +295,7 @@ concise Zeromus
 
 @Ultima
 0 is 冷却
-19 is 可以刷新
+18 is 可以刷新
 24 is {hidden}
 
 @Fenrir
@@ -354,12 +354,12 @@ concise Titan
 
 @Ixion
 0 is 可以刷新
-3 is 强制刷新
+2 is 强制刷新
 24 is {hidden}
 
 @Pandaemonium
 0 is 可以刷新
-14 is 强制刷新
+13 is 强制刷新
 24 is {hidden}
 
 @Anima
@@ -422,7 +422,7 @@ concise Siren
 
 @Gilgamesh
 0 is 冷却
-13 is 可以刷新
+12 is 可以刷新
 24 is {hidden}
 
 @Adamantoise
@@ -478,12 +478,12 @@ concise Ultros
 
 @Ultros
 0 is 冷却
-10 is 可以刷新
+9 is 可以刷新
 24 is {hidden}
 
 @Lamia
 0 is 冷却
-13 is 可以刷新
+12 is 可以刷新
 24 is {hidden}
 
 @Exodus
@@ -544,7 +544,7 @@ concise Zalera
 
 @Diabolos
 0 is 冷却
-19 is 可以刷新
+18 is 可以刷新
 24 is {hidden}
 
 @Balmung
@@ -587,7 +587,7 @@ concise Spriggan
 
 @Omega
 0 is 冷却
-13 is 可以刷新
+12 is 可以刷新
 24 is {hidden}
 
 @Cerberus
@@ -678,7 +678,7 @@ concise Zurvan
 
 @Sephirot
 0 is 冷却
-19 is 可以刷新
+18 is 可以刷新
 24 is {hidden}
 
 @Sophia
@@ -688,7 +688,7 @@ concise Zurvan
 
 @Ravana
 0 is 冷却
-23 is 可以刷新
+22 is 可以刷新
 24 is {hidden}
 
 @Zurvan

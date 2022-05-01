@@ -2,13 +2,13 @@
 title: 千竿口花希达 - Thousand-cast Theda
 description: 2.0 - 黑衣森林北部林区
 published: true
-date: 2022-05-01T22:52:17.000Z
+date: 2022-05-01T23:10:40.000Z
 tags: ffxiv, game
 editor: markdown
 dateCreated: 2022-01-01T00:00:00.000Z
 ---
 
-> 本页面由自动化程序生成于 2022年5月1日 22:52
+> 本页面由自动化程序生成于 2022年5月1日 23:10
 > 内容可能存在错误，如有bug请提交issue至：https://github.com/Eroleice/doc-pi/issues
 {.is-warning}
 
@@ -45,8 +45,8 @@ concise 晨曦王座
 
 @宇宙和音
 0 is 冷却
-7 is 可以刷新
-18 is 强制刷新
+6 is 可以刷新
+17 is 强制刷新
 24 is {hidden}
 
 @红玉海
@@ -63,8 +63,8 @@ concise 晨曦王座
 
 @萌芽池
 0 is 冷却
-8 is 可以刷新
-19 is 强制刷新
+7 is 可以刷新
+18 is 强制刷新
 24 is {hidden}
 
 @沃仙曦染
@@ -176,8 +176,8 @@ concise 琥珀原
 
 @琥珀原
 0 is 冷却
-7 is 可以刷新
-18 is 强制刷新
+6 is 可以刷新
+17 is 强制刷新
 24 is {hidden}
 
 @延夏
@@ -257,8 +257,8 @@ concise 红茶川
 
 @伊修加德
 0 is 冷却
-9 is 可以刷新
-20 is 强制刷新
+8 is 可以刷新
+19 is 强制刷新
 24 is {hidden}
 
 @enduml
@@ -342,14 +342,9 @@ concise Valefor
 concise Yojimbo
 concise Zeromus
 
-@Durandal
-0 is 可以刷新
-0 is 强制刷新
-24 is {hidden}
-
 @Tiamat
 0 is 可以刷新
-9 is 强制刷新
+8 is 强制刷新
 24 is {hidden}
 
 @Ifrit
@@ -389,6 +384,10 @@ concise Zeromus
 0 is 冷却
 24 is {hidden}
 
+@Durandal
+0 is 冷却
+24 is {hidden}
+
 @enduml
 ```
 
@@ -412,7 +411,7 @@ concise Titan
 
 @Titan
 0 is 可以刷新
-3 is 强制刷新
+2 is 强制刷新
 24 is {hidden}
 
 @Shinryu

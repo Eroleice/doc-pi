@@ -2,13 +2,13 @@
 title: 戾虫 - Tyger
 description: 5.0 - 雷克兰德
 published: true
-date: 2022-05-01T22:52:17.000Z
+date: 2022-05-01T23:10:41.000Z
 tags: ffxiv, game
 editor: markdown
 dateCreated: 2022-01-01T00:00:00.000Z
 ---
 
-> 本页面由自动化程序生成于 2022年5月1日 22:52
+> 本页面由自动化程序生成于 2022年5月1日 23:10
 > 内容可能存在错误，如有bug请提交issue至：https://github.com/Eroleice/doc-pi/issues
 {.is-warning}
 
@@ -232,7 +232,7 @@ concise Unicorn
 
 @Garuda
 0 is 冷却
-10 is 可以刷新
+9 is 可以刷新
 24 is {hidden}
 
 @Aegis
@@ -252,7 +252,7 @@ concise Unicorn
 
 @Ramuh
 0 is 冷却
-23 is 可以刷新
+22 is 可以刷新
 24 is {hidden}
 
 @Typhon
@@ -299,7 +299,7 @@ concise Zeromus
 
 @Zeromus
 0 is 冷却
-12 is 可以刷新
+11 is 可以刷新
 24 is {hidden}
 
 @Valefor
@@ -329,12 +329,12 @@ concise Zeromus
 
 @Alexander
 0 is 冷却
-21 is 可以刷新
+20 is 可以刷新
 24 is {hidden}
 
 @Bahamut
 0 is 冷却
-23 is 可以刷新
+22 is 可以刷新
 24 is {hidden}
 
 @Durandal
@@ -368,7 +368,7 @@ concise Titan
 
 @Mandragora
 0 is 冷却
-7 is 可以刷新
+6 is 可以刷新
 24 is {hidden}
 
 @Anima
@@ -378,7 +378,7 @@ concise Titan
 
 @Asura
 0 is 冷却
-13 is 可以刷新
+12 is 可以刷新
 24 is {hidden}
 
 @Ixion
@@ -442,7 +442,7 @@ concise Siren
 
 @Gilgamesh
 0 is 冷却
-16 is 可以刷新
+15 is 可以刷新
 24 is {hidden}
 
 @Midgardsormr
@@ -547,12 +547,12 @@ concise Zalera
 
 @Diabolos
 0 is 冷却
-9 is 可以刷新
+8 is 可以刷新
 24 is {hidden}
 
 @Goblin
 0 is 冷却
-10 is 可以刷新
+9 is 可以刷新
 24 is {hidden}
 
 @Coeurl
@@ -562,7 +562,7 @@ concise Zalera
 
 @Zalera
 0 is 冷却
-15 is 可以刷新
+14 is 可以刷新
 24 is {hidden}
 
 @Mateus
@@ -597,7 +597,7 @@ concise Spriggan
 
 @Spriggan
 0 is 冷却
-9 is 可以刷新
+8 is 可以刷新
 24 is {hidden}
 
 @Ragnarok
@@ -612,7 +612,7 @@ concise Spriggan
 
 @Moogle
 0 is 冷却
-19 is 可以刷新
+18 is 可以刷新
 24 is {hidden}
 
 @Omega
@@ -653,12 +653,12 @@ concise Zodiark
 
 @Zodiark
 0 is 冷却
-9 is 可以刷新
+8 is 可以刷新
 24 is {hidden}
 
 @Odin
 0 is 冷却
-10 is 可以刷新
+9 is 可以刷新
 24 is {hidden}
 
 @Shiva
@@ -691,7 +691,7 @@ concise Zurvan
 
 @Zurvan
 0 is 冷却
-11 is 可以刷新
+10 is 可以刷新
 24 is {hidden}
 
 @Sephirot
