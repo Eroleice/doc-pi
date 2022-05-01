@@ -2,13 +2,13 @@
 title: 萨法特 - Safat
 description: 2.0 - 库尔札斯中央高地
 published: true
-date: 2022-05-01T22:10:22.000Z
+date: 2022-05-01T22:52:17.000Z
 tags: ffxiv, game
 editor: markdown
 dateCreated: 2022-01-01T00:00:00.000Z
 ---
 
-> 本页面由自动化程序生成于 2022年5月1日 22:10
+> 本页面由自动化程序生成于 2022年5月1日 22:52
 > 内容可能存在错误，如有bug请提交issue至：https://github.com/Eroleice/doc-pi/issues
 {.is-warning}
 
@@ -45,7 +45,7 @@ concise 晨曦王座
 
 @宇宙和音
 0 is 冷却
-13 is 可以刷新
+12 is 可以刷新
 24 is {hidden}
 
 @拉诺西亚
@@ -64,17 +64,17 @@ concise 晨曦王座
 
 @神意之地
 0 is 冷却
-16 is 可以刷新
+15 is 可以刷新
 24 is {hidden}
 
 @幻影群岛
 0 is 冷却
-16 is 可以刷新
+15 is 可以刷新
 24 is {hidden}
 
 @萌芽池
 0 is 冷却
-18 is 可以刷新
+17 is 可以刷新
 24 is {hidden}
 
 @沃仙曦染
@@ -102,7 +102,7 @@ concise 梦羽宝境
 
 @白金幻象
 0 is 冷却
-13 is 可以刷新
+12 is 可以刷新
 24 is {hidden}
 
 @神拳痕
@@ -131,7 +131,7 @@ concise 梦羽宝境
 
 @旅人栈桥
 0 is 冷却
-23 is 可以刷新
+22 is 可以刷新
 24 is {hidden}
 
 @enduml
@@ -153,7 +153,7 @@ concise 琥珀原
 
 @紫水栈桥
 0 is 冷却
-13 is 可以刷新
+12 is 可以刷新
 24 is {hidden}
 
 @海猫茶屋
@@ -163,17 +163,17 @@ concise 琥珀原
 
 @静语庄园
 0 is 冷却
-17 is 可以刷新
+16 is 可以刷新
 24 is {hidden}
 
 @摩杜纳
 0 is 冷却
-21 is 可以刷新
+20 is 可以刷新
 24 is {hidden}
 
 @柔风海湾
 0 is 冷却
-21 is 可以刷新
+20 is 可以刷新
 24 is {hidden}
 
 @琥珀原
@@ -217,7 +217,7 @@ concise 红茶川
 
 @伊修加德
 0 is 冷却
-19 is 可以刷新
+18 is 可以刷新
 24 is {hidden}
 
 @enduml
@@ -242,7 +242,7 @@ concise Unicorn
 
 @Aegis
 0 is 可以刷新
-3 is 强制刷新
+2 is 强制刷新
 24 is {hidden}
 
 @Ramuh
@@ -304,7 +304,7 @@ concise Zeromus
 
 @Zeromus
 0 is 可以刷新
-7 is 强制刷新
+6 is 强制刷新
 24 is {hidden}
 
 @Valefor
@@ -368,11 +368,6 @@ concise Pandaemonium
 concise Shinryu
 concise Titan
 
-@Shinryu
-0 is 可以刷新
-0 is 强制刷新
-24 is {hidden}
-
 @Hades
 0 is 可以刷新
 4 is 强制刷新
@@ -399,6 +394,10 @@ concise Titan
 24 is {hidden}
 
 @Pandaemonium
+0 is 冷却
+24 is {hidden}
+
+@Shinryu
 0 is 冷却
 24 is {hidden}
 
@@ -434,7 +433,7 @@ concise Siren
 
 @Siren
 0 is 可以刷新
-7 is 强制刷新
+6 is 强制刷新
 24 is {hidden}
 
 @Sargatanas
@@ -536,17 +535,17 @@ concise Zalera
 
 @Zalera
 0 is 可以刷新
-4 is 强制刷新
+3 is 强制刷新
 24 is {hidden}
 
 @Coeurl
 0 is 可以刷新
-7 is 强制刷新
+6 is 强制刷新
 24 is {hidden}
 
 @Diabolos
 0 is 可以刷新
-10 is 强制刷新
+9 is 强制刷新
 24 is {hidden}
 
 @Mateus
@@ -585,11 +584,6 @@ concise Omega
 concise Ragnarok
 concise Spriggan
 
-@Omega
-0 is 可以刷新
-4 is 强制刷新
-24 is {hidden}
-
 @Louisoix
 0 is 冷却
 24 is {hidden}
@@ -607,6 +601,10 @@ concise Spriggan
 24 is {hidden}
 
 @Cerberus
+0 is 冷却
+24 is {hidden}
+
+@Omega
 0 is 冷却
 24 is {hidden}
 
@@ -628,7 +626,7 @@ concise Zodiark
 
 @Shiva
 0 is 可以刷新
-6 is 强制刷新
+5 is 强制刷新
 24 is {hidden}
 
 @Lich
@@ -667,14 +665,9 @@ concise Sephirot
 concise Sophia
 concise Zurvan
 
-@Sophia
-0 is 可以刷新
-3 is 强制刷新
-24 is {hidden}
-
 @Ravana
 0 is 可以刷新
-7 is 强制刷新
+6 is 强制刷新
 24 is {hidden}
 
 @Zurvan
@@ -686,6 +679,10 @@ concise Zurvan
 24 is {hidden}
 
 @Sephirot
+0 is 冷却
+24 is {hidden}
+
+@Sophia
 0 is 冷却
 24 is {hidden}
 

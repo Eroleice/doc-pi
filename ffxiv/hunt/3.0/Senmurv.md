@@ -2,13 +2,13 @@
 title: 神穆尔鸟 - Senmurv
 description: 3.0 - 龙堡参天高地
 published: true
-date: 2022-05-01T22:10:22.000Z
+date: 2022-05-01T22:52:17.000Z
 tags: ffxiv, game
 editor: markdown
 dateCreated: 2022-01-01T00:00:00.000Z
 ---
 
-> 本页面由自动化程序生成于 2022年5月1日 22:10
+> 本页面由自动化程序生成于 2022年5月1日 22:52
 > 内容可能存在错误，如有bug请提交issue至：https://github.com/Eroleice/doc-pi/issues
 {.is-warning}
 
@@ -348,17 +348,17 @@ concise Titan
 
 @Mandragora
 0 is 冷却
-3 is 可以刷新
+2 is 可以刷新
 24 is {hidden}
 
 @Ixion
 0 is 冷却
-3 is 可以刷新
+2 is 可以刷新
 24 is {hidden}
 
 @Belias
 0 is 冷却
-6 is 可以刷新
+5 is 可以刷新
 24 is {hidden}
 
 @Titan
@@ -409,7 +409,7 @@ concise Siren
 
 @Jenova
 0 is 冷却
-2 is 可以刷新
+1 is 可以刷新
 24 is {hidden}
 
 @Siren
@@ -469,7 +469,7 @@ concise Ultros
 
 @Leviathan
 0 is 冷却
-17 is 可以刷新
+16 is 可以刷新
 24 is {hidden}
 
 @Hyperion
@@ -520,7 +520,7 @@ concise Zalera
 
 @Balmung
 0 is 冷却
-15 is 可以刷新
+14 is 可以刷新
 24 is {hidden}
 
 @Malboro
@@ -595,10 +595,6 @@ concise Shiva
 concise Twintania
 concise Zodiark
 
-@Odin
-0 is 可以刷新
-24 is {hidden}
-
 @Twintania
 0 is 可以刷新
 24 is {hidden}
@@ -616,6 +612,10 @@ concise Zodiark
 24 is {hidden}
 
 @Lich
+0 is 冷却
+24 is {hidden}
+
+@Odin
 0 is 冷却
 24 is {hidden}
 

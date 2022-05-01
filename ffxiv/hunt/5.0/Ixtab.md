@@ -2,13 +2,13 @@
 title: 伊休妲 - Ixtab
 description: 5.0 - 拉凯提卡大森林
 published: true
-date: 2022-05-01T22:10:22.000Z
+date: 2022-05-01T22:52:17.000Z
 tags: ffxiv, game
 editor: markdown
 dateCreated: 2022-01-01T00:00:00.000Z
 ---
 
-> 本页面由自动化程序生成于 2022年5月1日 22:10
+> 本页面由自动化程序生成于 2022年5月1日 22:52
 > 内容可能存在错误，如有bug请提交issue至：https://github.com/Eroleice/doc-pi/issues
 {.is-warning}
 
@@ -150,10 +150,6 @@ concise 琥珀原
 0 is 冷却
 24 is {hidden}
 
-@柔风海湾
-0 is 冷却
-24 is {hidden}
-
 @海猫茶屋
 0 is 冷却
 24 is {hidden}
@@ -167,6 +163,10 @@ concise 琥珀原
 24 is {hidden}
 
 @摩杜纳
+0 is 冷却
+24 is {hidden}
+
+@柔风海湾
 0 is 冷却
 24 is {hidden}
 
@@ -227,7 +227,7 @@ concise Unicorn
 
 @Unicorn
 0 is 冷却
-12 is 可以刷新
+11 is 可以刷新
 24 is {hidden}
 
 @Aegis
@@ -247,7 +247,7 @@ concise Unicorn
 
 @Atomos
 0 is 冷却
-20 is 可以刷新
+19 is 可以刷新
 24 is {hidden}
 
 @Typhon
@@ -298,17 +298,17 @@ concise Zeromus
 
 @Ifrit
 0 is 冷却
-14 is 可以刷新
+13 is 可以刷新
 24 is {hidden}
 
 @Valefor
 0 is 冷却
-14 is 可以刷新
+13 is 可以刷新
 24 is {hidden}
 
 @Ultima
 0 is 冷却
-19 is 可以刷新
+18 is 可以刷新
 24 is {hidden}
 
 @Alexander
@@ -323,6 +323,7 @@ concise Zeromus
 
 @Yojimbo
 0 is 冷却
+23 is 可以刷新
 24 is {hidden}
 
 @Bahamut
@@ -364,7 +365,7 @@ concise Titan
 
 @Ixion
 0 is 可以刷新
-23 is 强制刷新
+22 is 强制刷新
 24 is {hidden}
 
 @Asura
@@ -374,15 +375,17 @@ concise Titan
 
 @Anima
 0 is 冷却
-18 is 可以刷新
+17 is 可以刷新
 24 is {hidden}
 
 @Belias
 0 is 冷却
+23 is 可以刷新
 24 is {hidden}
 
 @Hades
 0 is 冷却
+23 is 可以刷新
 24 is {hidden}
 
 @Shinryu
@@ -434,17 +437,17 @@ concise Siren
 
 @Gilgamesh
 0 is 冷却
-18 is 可以刷新
+17 is 可以刷新
 24 is {hidden}
 
 @Faerie
 0 is 冷却
-21 is 可以刷新
+20 is 可以刷新
 24 is {hidden}
 
 @Midgardsormr
 0 is 冷却
-23 is 可以刷新
+22 is 可以刷新
 24 is {hidden}
 
 @Jenova
@@ -488,7 +491,7 @@ concise Ultros
 
 @Hyperion
 0 is 冷却
-23 is 可以刷新
+22 is 可以刷新
 24 is {hidden}
 
 @Behemoth
@@ -540,17 +543,17 @@ concise Zalera
 
 @Goblin
 0 is 冷却
-13 is 可以刷新
+12 is 可以刷新
 24 is {hidden}
 
 @Diabolos
 0 is 冷却
-14 is 可以刷新
+13 is 可以刷新
 24 is {hidden}
 
 @Coeurl
 0 is 冷却
-17 is 可以刷新
+16 is 可以刷新
 24 is {hidden}
 
 @Zalera
@@ -560,7 +563,7 @@ concise Zalera
 
 @Mateus
 0 is 冷却
-23 is 可以刷新
+22 is 可以刷新
 24 is {hidden}
 
 @Balmung
@@ -594,7 +597,7 @@ concise Spriggan
 
 @Spriggan
 0 is 冷却
-18 is 可以刷新
+17 is 可以刷新
 24 is {hidden}
 
 @Louisoix
@@ -632,17 +635,17 @@ concise Zodiark
 
 @Phoenix
 0 is 冷却
-10 is 可以刷新
+9 is 可以刷新
 24 is {hidden}
 
 @Twintania
 0 is 冷却
-10 is 可以刷新
+9 is 可以刷新
 24 is {hidden}
 
 @Zodiark
 0 is 冷却
-11 is 可以刷新
+10 is 可以刷新
 24 is {hidden}
 
 @Odin

@@ -2,13 +2,13 @@
 title: 兀鲁忽乃朝鲁 - Orghana
 description: 4.0 - 太阳神草原
 published: true
-date: 2022-05-01T22:10:22.000Z
+date: 2022-05-01T22:52:17.000Z
 tags: ffxiv, game
 editor: markdown
 dateCreated: 2022-01-01T00:00:00.000Z
 ---
 
-> 本页面由自动化程序生成于 2022年5月1日 22:10
+> 本页面由自动化程序生成于 2022年5月1日 22:52
 > 内容可能存在错误，如有bug请提交issue至：https://github.com/Eroleice/doc-pi/issues
 {.is-warning}
 
@@ -227,7 +227,7 @@ concise Unicorn
 
 @Garuda
 0 is 冷却
-13 is 可以刷新
+12 is 可以刷新
 24 is {hidden}
 
 @Aegis
@@ -237,6 +237,7 @@ concise Unicorn
 
 @Unicorn
 0 is 冷却
+23 is 可以刷新
 24 is {hidden}
 
 @Kujata
@@ -290,22 +291,22 @@ concise Zeromus
 
 @Valefor
 0 is 冷却
-10 is 可以刷新
+9 is 可以刷新
 24 is {hidden}
 
 @Ultima
 0 is 冷却
-11 is 可以刷新
+10 is 可以刷新
 24 is {hidden}
 
 @Alexander
 0 is 冷却
-12 is 可以刷新
+11 is 可以刷新
 24 is {hidden}
 
 @Ridill
 0 is 冷却
-15 is 可以刷新
+14 is 可以刷新
 24 is {hidden}
 
 @Ifrit
@@ -320,6 +321,7 @@ concise Zeromus
 
 @Zeromus
 0 is 冷却
+23 is 可以刷新
 24 is {hidden}
 
 @Yojimbo
@@ -357,7 +359,7 @@ concise Titan
 
 @Hades
 0 is 冷却
-11 is 可以刷新
+10 is 可以刷新
 24 is {hidden}
 
 @Shinryu
@@ -422,22 +424,22 @@ concise Siren
 
 @Faerie
 0 is 冷却
-10 is 可以刷新
+9 is 可以刷新
 24 is {hidden}
 
 @Siren
 0 is 冷却
-16 is 可以刷新
+15 is 可以刷新
 24 is {hidden}
 
 @Sargatanas
 0 is 冷却
-17 is 可以刷新
+16 is 可以刷新
 24 is {hidden}
 
 @Cactuar
 0 is 冷却
-22 is 可以刷新
+21 is 可以刷新
 24 is {hidden}
 
 @Midgardsormr
@@ -476,7 +478,7 @@ concise Ultros
 
 @Exodus
 0 is 冷却
-23 is 可以刷新
+22 is 可以刷新
 24 is {hidden}
 
 @Hyperion
@@ -532,7 +534,7 @@ concise Zalera
 
 @Balmung
 0 is 冷却
-14 is 可以刷新
+13 is 可以刷新
 24 is {hidden}
 
 @Goblin
@@ -542,7 +544,7 @@ concise Zalera
 
 @Mateus
 0 is 冷却
-15 is 可以刷新
+14 is 可以刷新
 24 is {hidden}
 
 @Coeurl
@@ -552,7 +554,7 @@ concise Zalera
 
 @Diabolos
 0 is 冷却
-19 is 可以刷新
+18 is 可以刷新
 24 is {hidden}
 
 @Brynhildr
@@ -581,7 +583,7 @@ concise Spriggan
 
 @Cerberus
 0 is 冷却
-15 is 可以刷新
+14 is 可以刷新
 24 is {hidden}
 
 @Ragnarok
@@ -628,7 +630,7 @@ concise Zodiark
 
 @Odin
 0 is 冷却
-22 is 可以刷新
+21 is 可以刷新
 24 is {hidden}
 
 @Shiva

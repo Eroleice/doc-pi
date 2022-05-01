@@ -2,13 +2,13 @@
 title: 刚德瑞瓦 - Gandarewa
 description: 3.0 - 翻云雾海
 published: true
-date: 2022-05-01T22:10:22.000Z
+date: 2022-05-01T22:52:17.000Z
 tags: ffxiv, game
 editor: markdown
 dateCreated: 2022-01-01T00:00:00.000Z
 ---
 
-> 本页面由自动化程序生成于 2022年5月1日 22:10
+> 本页面由自动化程序生成于 2022年5月1日 22:52
 > 内容可能存在错误，如有bug请提交issue至：https://github.com/Eroleice/doc-pi/issues
 {.is-warning}
 
@@ -227,7 +227,7 @@ concise Unicorn
 
 @Ramuh
 0 is 可以刷新
-10 is 强制刷新
+9 is 强制刷新
 24 is {hidden}
 
 @Unicorn
@@ -237,16 +237,17 @@ concise Unicorn
 
 @Aegis
 0 is 冷却
-12 is 可以刷新
+11 is 可以刷新
 24 is {hidden}
 
 @Carbuncle
 0 is 冷却
-22 is 可以刷新
+21 is 可以刷新
 24 is {hidden}
 
 @Gungnir
 0 is 冷却
+23 is 可以刷新
 24 is {hidden}
 
 @Kujata
@@ -294,12 +295,12 @@ concise Zeromus
 
 @Fenrir
 0 is 冷却
-15 is 可以刷新
+14 is 可以刷新
 24 is {hidden}
 
 @Bahamut
 0 is 冷却
-15 is 可以刷新
+14 is 可以刷新
 24 is {hidden}
 
 @Ifrit
@@ -421,7 +422,7 @@ concise Siren
 
 @Midgardsormr
 0 is 冷却
-23 is 可以刷新
+22 is 可以刷新
 24 is {hidden}
 
 @Cactuar
@@ -472,12 +473,12 @@ concise Ultros
 
 @Lamia
 0 is 冷却
-17 is 可以刷新
+16 is 可以刷新
 24 is {hidden}
 
 @Behemoth
 0 is 冷却
-19 is 可以刷新
+18 is 可以刷新
 24 is {hidden}
 
 @Leviathan
@@ -525,7 +526,7 @@ concise Zalera
 
 @Balmung
 0 is 冷却
-20 is 可以刷新
+19 is 可以刷新
 24 is {hidden}
 
 @Coeurl
@@ -570,7 +571,7 @@ concise Spriggan
 
 @Omega
 0 is 冷却
-15 is 可以刷新
+14 is 可以刷新
 24 is {hidden}
 
 @Ragnarok
@@ -611,7 +612,7 @@ concise Zodiark
 
 @Shiva
 0 is 冷却
-23 is 可以刷新
+22 is 可以刷新
 24 is {hidden}
 
 @Phoenix

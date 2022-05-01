@@ -2,13 +2,13 @@
 title: 南迪 - Nandi
 description: 2.0 - 拉诺西亚高地
 published: true
-date: 2022-05-01T22:10:22.000Z
+date: 2022-05-01T22:52:17.000Z
 tags: ffxiv, game
 editor: markdown
 dateCreated: 2022-01-01T00:00:00.000Z
 ---
 
-> 本页面由自动化程序生成于 2022年5月1日 22:10
+> 本页面由自动化程序生成于 2022年5月1日 22:52
 > 内容可能存在错误，如有bug请提交issue至：https://github.com/Eroleice/doc-pi/issues
 {.is-warning}
 
@@ -228,13 +228,12 @@ concise Unicorn
 
 @Garuda
 0 is 可以刷新
-5 is 强制刷新
+4 is 强制刷新
 24 is {hidden}
 
 @Typhon
-0 is 冷却
 0 is 可以刷新
-6 is 强制刷新
+5 is 强制刷新
 24 is {hidden}
 
 @Gungnir
@@ -245,26 +244,26 @@ concise Unicorn
 
 @Aegis
 0 is 冷却
-1 is 可以刷新
-7 is 强制刷新
+0 is 可以刷新
+6 is 强制刷新
 24 is {hidden}
 
 @Ramuh
 0 is 冷却
-1 is 可以刷新
-7 is 强制刷新
+0 is 可以刷新
+6 is 强制刷新
 24 is {hidden}
 
 @Carbuncle
 0 is 冷却
-1 is 可以刷新
-7 is 强制刷新
+0 is 可以刷新
+6 is 强制刷新
 24 is {hidden}
 
 @Atomos
 0 is 冷却
-1 is 可以刷新
-7 is 强制刷新
+0 is 可以刷新
+6 is 强制刷新
 24 is {hidden}
 
 @Unicorn
@@ -298,7 +297,7 @@ concise Zeromus
 
 @Zeromus
 0 is 可以刷新
-4 is 强制刷新
+3 is 强制刷新
 24 is {hidden}
 
 @Bahamut
@@ -308,19 +307,17 @@ concise Zeromus
 
 @Tiamat
 0 is 可以刷新
-5 is 强制刷新
+4 is 强制刷新
 24 is {hidden}
 
 @Yojimbo
-0 is 冷却
 0 is 可以刷新
-6 is 强制刷新
+5 is 强制刷新
 24 is {hidden}
 
 @Ridill
-0 is 冷却
 0 is 可以刷新
-6 is 强制刷新
+5 is 强制刷新
 24 is {hidden}
 
 @Ultima
@@ -343,20 +340,20 @@ concise Zeromus
 
 @Durandal
 0 is 冷却
-2 is 可以刷新
-8 is 强制刷新
+1 is 可以刷新
+7 is 强制刷新
 24 is {hidden}
 
 @Fenrir
 0 is 冷却
-2 is 可以刷新
-8 is 强制刷新
+1 is 可以刷新
+7 is 强制刷新
 24 is {hidden}
 
 @Ifrit
 0 is 冷却
-16 is 可以刷新
-22 is 强制刷新
+15 is 可以刷新
+21 is 强制刷新
 24 is {hidden}
 
 @enduml
@@ -380,63 +377,62 @@ concise Pandaemonium
 concise Shinryu
 concise Titan
 
-@Pandaemonium
-0 is 可以刷新
-5 is 强制刷新
-24 is {hidden}
-
 @Ixion
 0 is 可以刷新
-5 is 强制刷新
+4 is 强制刷新
 24 is {hidden}
 
 @Chocobo
 0 is 可以刷新
-5 is 强制刷新
+4 is 强制刷新
 24 is {hidden}
 
 @Belias
 0 is 可以刷新
-5 is 强制刷新
+4 is 强制刷新
 24 is {hidden}
 
 @Hades
 0 is 冷却
-1 is 可以刷新
-7 is 强制刷新
+0 is 可以刷新
+6 is 强制刷新
 24 is {hidden}
 
 @Masamune
 0 is 冷却
-1 is 可以刷新
-7 is 强制刷新
+0 is 可以刷新
+6 is 强制刷新
 24 is {hidden}
 
 @Titan
 0 is 冷却
-1 is 可以刷新
-7 is 强制刷新
+0 is 可以刷新
+6 is 强制刷新
 24 is {hidden}
 
 @Asura
 0 is 冷却
-2 is 可以刷新
-8 is 强制刷新
+1 is 可以刷新
+7 is 强制刷新
 24 is {hidden}
 
 @Mandragora
 0 is 冷却
-2 is 可以刷新
-8 is 强制刷新
+1 is 可以刷新
+7 is 强制刷新
 24 is {hidden}
 
 @Shinryu
 0 is 冷却
-17 is 可以刷新
-23 is 强制刷新
+16 is 可以刷新
+22 is 强制刷新
 24 is {hidden}
 
 @Anima
+0 is 冷却
+24 is {hidden}
+
+@Pandaemonium
 0 is 冷却
 24 is {hidden}
 
@@ -460,12 +456,12 @@ concise Siren
 
 @Gilgamesh
 0 is 可以刷新
-4 is 强制刷新
+3 is 强制刷新
 24 is {hidden}
 
 @Midgardsormr
 0 is 可以刷新
-5 is 强制刷新
+4 is 强制刷新
 24 is {hidden}
 
 @Siren
@@ -474,33 +470,32 @@ concise Siren
 24 is {hidden}
 
 @Sargatanas
+0 is 可以刷新
+5 is 强制刷新
+24 is {hidden}
+
+@Jenova
 0 is 冷却
 0 is 可以刷新
 6 is 强制刷新
 24 is {hidden}
 
-@Jenova
-0 is 冷却
-1 is 可以刷新
-7 is 强制刷新
-24 is {hidden}
-
 @Faerie
 0 is 冷却
-1 is 可以刷新
-7 is 强制刷新
+0 is 可以刷新
+6 is 强制刷新
 24 is {hidden}
 
 @Adamantoise
 0 is 冷却
-1 is 可以刷新
-7 is 强制刷新
+0 is 可以刷新
+6 is 强制刷新
 24 is {hidden}
 
 @Cactuar
 0 is 冷却
-1 is 可以刷新
-7 is 强制刷新
+0 is 可以刷新
+6 is 强制刷新
 24 is {hidden}
 
 @enduml
@@ -523,19 +518,18 @@ concise Ultros
 
 @Lamia
 0 is 可以刷新
-5 is 强制刷新
+4 is 强制刷新
 24 is {hidden}
 
 @Hyperion
-0 is 冷却
 0 is 可以刷新
-6 is 强制刷新
+5 is 强制刷新
 24 is {hidden}
 
 @Exodus
 0 is 冷却
-2 is 可以刷新
-8 is 强制刷新
+1 is 可以刷新
+7 is 强制刷新
 24 is {hidden}
 
 @Leviathan
@@ -546,14 +540,14 @@ concise Ultros
 
 @Famfrit
 0 is 冷却
-3 is 可以刷新
-9 is 强制刷新
+2 is 可以刷新
+8 is 强制刷新
 24 is {hidden}
 
 @Behemoth
 0 is 冷却
-3 is 可以刷新
-9 is 强制刷新
+2 is 可以刷新
+8 is 强制刷新
 24 is {hidden}
 
 @Excalibur
@@ -588,12 +582,12 @@ concise Zalera
 
 @Diabolos
 0 is 可以刷新
-5 is 强制刷新
+4 is 强制刷新
 24 is {hidden}
 
 @Goblin
 0 is 可以刷新
-5 is 强制刷新
+4 is 强制刷新
 24 is {hidden}
 
 @Zalera
@@ -602,27 +596,24 @@ concise Zalera
 24 is {hidden}
 
 @Balmung
-0 is 冷却
 0 is 可以刷新
-6 is 强制刷新
+5 is 强制刷新
 24 is {hidden}
 
 @Brynhildr
-0 is 冷却
 0 is 可以刷新
-6 is 强制刷新
+5 is 强制刷新
 24 is {hidden}
 
 @Mateus
-0 is 冷却
 0 is 可以刷新
-6 is 强制刷新
+5 is 强制刷新
 24 is {hidden}
 
 @Malboro
 0 is 冷却
-1 is 可以刷新
-7 is 强制刷新
+0 is 可以刷新
+6 is 强制刷新
 24 is {hidden}
 
 @Coeurl
@@ -649,12 +640,12 @@ concise Spriggan
 
 @Cerberus
 0 is 可以刷新
-5 is 强制刷新
+4 is 强制刷新
 24 is {hidden}
 
 @Moogle
 0 is 可以刷新
-5 is 强制刷新
+4 is 强制刷新
 24 is {hidden}
 
 @Ragnarok
@@ -663,9 +654,8 @@ concise Spriggan
 24 is {hidden}
 
 @Louisoix
-0 is 冷却
 0 is 可以刷新
-6 is 强制刷新
+5 is 强制刷新
 24 is {hidden}
 
 @Omega
@@ -676,8 +666,8 @@ concise Spriggan
 
 @Spriggan
 0 is 冷却
-3 is 可以刷新
-9 is 强制刷新
+2 is 可以刷新
+8 is 强制刷新
 24 is {hidden}
 
 @enduml
@@ -698,35 +688,35 @@ concise Zodiark
 
 @Odin
 0 is 可以刷新
-3 is 强制刷新
+2 is 强制刷新
 24 is {hidden}
 
 @Zodiark
 0 is 可以刷新
-5 is 强制刷新
+4 is 强制刷新
 24 is {hidden}
 
 @Phoenix
 0 is 可以刷新
-5 is 强制刷新
+4 is 强制刷新
 24 is {hidden}
 
 @Twintania
 0 is 冷却
-2 is 可以刷新
-8 is 强制刷新
+1 is 可以刷新
+7 is 强制刷新
 24 is {hidden}
 
 @Lich
 0 is 冷却
-2 is 可以刷新
-8 is 强制刷新
+1 is 可以刷新
+7 is 强制刷新
 24 is {hidden}
 
 @Shiva
 0 is 冷却
-2 is 可以刷新
-8 is 强制刷新
+1 is 可以刷新
+7 is 强制刷新
 24 is {hidden}
 
 @enduml
@@ -744,21 +734,15 @@ concise Sephirot
 concise Sophia
 concise Zurvan
 
-@Sophia
+@Bismarck
 0 is 可以刷新
 5 is 强制刷新
 24 is {hidden}
 
-@Bismarck
-0 is 冷却
-0 is 可以刷新
-6 is 强制刷新
-24 is {hidden}
-
 @Sephirot
 0 is 冷却
-2 is 可以刷新
-8 is 强制刷新
+1 is 可以刷新
+7 is 强制刷新
 24 is {hidden}
 
 @Ravana
@@ -769,7 +753,12 @@ concise Zurvan
 
 @Zurvan
 0 is 冷却
-18 is 可以刷新
+17 is 可以刷新
+23 is 强制刷新
+24 is {hidden}
+
+@Sophia
+0 is 冷却
 24 is {hidden}
 
 @enduml

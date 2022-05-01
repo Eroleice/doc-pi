@@ -2,13 +2,13 @@
 title: 阿姆斯特朗 - Armstrong
 description: 6.0 - 加雷马
 published: true
-date: 2022-05-01T22:10:22.000Z
+date: 2022-05-01T22:52:17.000Z
 tags: ffxiv, game
 editor: markdown
 dateCreated: 2022-01-01T00:00:00.000Z
 ---
 
-> 本页面由自动化程序生成于 2022年5月1日 22:10
+> 本页面由自动化程序生成于 2022年5月1日 22:52
 > 内容可能存在错误，如有bug请提交issue至：https://github.com/Eroleice/doc-pi/issues
 {.is-warning}
 
@@ -451,12 +451,12 @@ concise Unicorn
 
 @Garuda
 0 is 冷却
-12 is 可以刷新
+11 is 可以刷新
 24 is {hidden}
 
 @Gungnir
 0 is 冷却
-13 is 可以刷新
+12 is 可以刷新
 24 is {hidden}
 
 @Aegis
@@ -516,7 +516,7 @@ concise Zeromus
 
 @Zeromus
 0 is 可以刷新
-15 is 强制刷新
+14 is 强制刷新
 24 is {hidden}
 
 @Ultima
@@ -526,27 +526,27 @@ concise Zeromus
 
 @Ridill
 0 is 冷却
-14 is 可以刷新
+13 is 可以刷新
 24 is {hidden}
 
 @Tiamat
 0 is 冷却
-15 is 可以刷新
+14 is 可以刷新
 24 is {hidden}
 
 @Bahamut
 0 is 冷却
-19 is 可以刷新
+18 is 可以刷新
 24 is {hidden}
 
 @Ifrit
 0 is 冷却
-20 is 可以刷新
+19 is 可以刷新
 24 is {hidden}
 
 @Valefor
 0 is 冷却
-20 is 可以刷新
+19 is 可以刷新
 24 is {hidden}
 
 @Durandal
@@ -556,7 +556,7 @@ concise Zeromus
 
 @Fenrir
 0 is 冷却
-22 is 可以刷新
+21 is 可以刷新
 24 is {hidden}
 
 @Yojimbo
@@ -590,12 +590,12 @@ concise Titan
 
 @Hades
 0 is 冷却
-10 is 可以刷新
+9 is 可以刷新
 24 is {hidden}
 
 @Shinryu
 0 is 冷却
-15 is 可以刷新
+14 is 可以刷新
 24 is {hidden}
 
 @Chocobo
@@ -655,21 +655,22 @@ concise Siren
 
 @Siren
 0 is 冷却
-11 is 可以刷新
+10 is 可以刷新
 24 is {hidden}
 
 @Faerie
 0 is 冷却
-20 is 可以刷新
+19 is 可以刷新
 24 is {hidden}
 
 @Cactuar
 0 is 冷却
-22 is 可以刷新
+21 is 可以刷新
 24 is {hidden}
 
 @Midgardsormr
 0 is 冷却
+23 is 可以刷新
 24 is {hidden}
 
 @Gilgamesh
@@ -708,7 +709,7 @@ concise Ultros
 
 @Leviathan
 0 is 冷却
-10 is 可以刷新
+9 is 可以刷新
 24 is {hidden}
 
 @Exodus
@@ -767,17 +768,17 @@ concise Zalera
 
 @Goblin
 0 is 冷却
-10 is 可以刷新
+9 is 可以刷新
 24 is {hidden}
 
 @Malboro
 0 is 冷却
-13 is 可以刷新
+12 is 可以刷新
 24 is {hidden}
 
 @Balmung
 0 is 冷却
-14 is 可以刷新
+13 is 可以刷新
 24 is {hidden}
 
 @Coeurl
@@ -787,7 +788,7 @@ concise Zalera
 
 @Diabolos
 0 is 冷却
-19 is 可以刷新
+18 is 可以刷新
 24 is {hidden}
 
 @Mateus
@@ -822,12 +823,12 @@ concise Spriggan
 
 @Ragnarok
 0 is 冷却
-16 is 可以刷新
+15 is 可以刷新
 24 is {hidden}
 
 @Omega
 0 is 冷却
-17 is 可以刷新
+16 is 可以刷新
 24 is {hidden}
 
 @Spriggan
@@ -860,7 +861,7 @@ concise Zodiark
 
 @Zodiark
 0 is 冷却
-18 is 可以刷新
+17 is 可以刷新
 24 is {hidden}
 
 @Odin
@@ -900,11 +901,12 @@ concise Zurvan
 
 @Sophia
 0 is 冷却
-23 is 可以刷新
+22 is 可以刷新
 24 is {hidden}
 
 @Bismarck
 0 is 冷却
+23 is 可以刷新
 24 is {hidden}
 
 @Zurvan

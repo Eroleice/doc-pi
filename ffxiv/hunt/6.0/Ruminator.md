@@ -2,13 +2,13 @@
 title: 沉思之物 - Ruminator
 description: 6.0 - 叹息海
 published: true
-date: 2022-05-01T22:10:22.000Z
+date: 2022-05-01T22:52:17.000Z
 tags: ffxiv, game
 editor: markdown
 dateCreated: 2022-01-01T00:00:00.000Z
 ---
 
-> 本页面由自动化程序生成于 2022年5月1日 22:10
+> 本页面由自动化程序生成于 2022年5月1日 22:52
 > 内容可能存在错误，如有bug请提交issue至：https://github.com/Eroleice/doc-pi/issues
 {.is-warning}
 
@@ -209,10 +209,6 @@ concise 梦羽宝境
 0 is 冷却
 24 is {hidden}
 
-@拂晓之间
-0 is 冷却
-24 is {hidden}
-
 @梦羽宝境
 0 is 冷却
 24 is {hidden}
@@ -253,6 +249,10 @@ concise 梦羽宝境
 0 is 冷却
 24 is {hidden}
 
+@拂晓之间
+0 is 冷却
+24 is {hidden}
+
 @enduml
 ```
 
@@ -270,10 +270,6 @@ concise 海猫茶屋
 concise 柔风海湾
 concise 琥珀原
 
-@摩杜纳
-0 is 冷却
-24 is {hidden}
-
 @延夏
 0 is 冷却
 24 is {hidden}
@@ -351,6 +347,10 @@ concise 琥珀原
 24 is {hidden}
 
 @琥珀原
+0 is 冷却
+24 is {hidden}
+
+@摩杜纳
 0 is 冷却
 24 is {hidden}
 
@@ -373,27 +373,11 @@ concise 红茶川
 0 is 冷却
 24 is {hidden}
 
-@红茶川
-0 is 冷却
-24 is {hidden}
-
-@红茶川
-0 is 冷却
-24 is {hidden}
-
 @伊修加德
 0 is 冷却
 24 is {hidden}
 
 @太阳海岸
-0 is 冷却
-24 is {hidden}
-
-@太阳海岸
-0 is 冷却
-24 is {hidden}
-
-@红茶川
 0 is 冷却
 24 is {hidden}
 
@@ -426,6 +410,22 @@ concise 红茶川
 24 is {hidden}
 
 @水晶塔
+0 is 冷却
+24 is {hidden}
+
+@红茶川
+0 is 冷却
+24 is {hidden}
+
+@太阳海岸
+0 is 冷却
+24 is {hidden}
+
+@红茶川
+0 is 冷却
+24 is {hidden}
+
+@红茶川
 0 is 冷却
 24 is {hidden}
 
@@ -451,20 +451,22 @@ concise Unicorn
 
 @Aegis
 0 is 冷却
-21 is 可以刷新
+20 is 可以刷新
 24 is {hidden}
 
 @Atomos
 0 is 冷却
-22 is 可以刷新
+21 is 可以刷新
 24 is {hidden}
 
 @Garuda
 0 is 冷却
+23 is 可以刷新
 24 is {hidden}
 
 @Typhon
 0 is 冷却
+23 is 可以刷新
 24 is {hidden}
 
 @Kujata
@@ -519,7 +521,7 @@ concise Zeromus
 
 @Ifrit
 0 is 冷却
-23 is 可以刷新
+22 is 可以刷新
 24 is {hidden}
 
 @Alexander
@@ -581,7 +583,7 @@ concise Titan
 
 @Titan
 0 is 冷却
-17 is 可以刷新
+16 is 可以刷新
 24 is {hidden}
 
 @Mandragora
@@ -591,7 +593,7 @@ concise Titan
 
 @Chocobo
 0 is 冷却
-20 is 可以刷新
+19 is 可以刷新
 24 is {hidden}
 
 @Asura
@@ -646,12 +648,12 @@ concise Siren
 
 @Faerie
 0 is 冷却
-20 is 可以刷新
+19 is 可以刷新
 24 is {hidden}
 
 @Midgardsormr
 0 is 冷却
-22 is 可以刷新
+21 is 可以刷新
 24 is {hidden}
 
 @Siren
@@ -755,12 +757,12 @@ concise Zalera
 
 @Mateus
 0 is 冷却
-20 is 可以刷新
+19 is 可以刷新
 24 is {hidden}
 
 @Balmung
 0 is 冷却
-21 is 可以刷新
+20 is 可以刷新
 24 is {hidden}
 
 @Diabolos
@@ -801,7 +803,7 @@ concise Spriggan
 
 @Louisoix
 0 is 冷却
-14 is 可以刷新
+13 is 可以刷新
 24 is {hidden}
 
 @Ragnarok
@@ -842,7 +844,7 @@ concise Zodiark
 
 @Odin
 0 is 冷却
-19 is 可以刷新
+18 is 可以刷新
 24 is {hidden}
 
 @Shiva
@@ -882,7 +884,6 @@ concise Sophia
 concise Zurvan
 
 @Bismarck
-0 is 冷却
 0 is 可以刷新
 24 is {hidden}
 

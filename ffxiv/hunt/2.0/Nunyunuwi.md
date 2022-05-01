@@ -2,13 +2,13 @@
 title: 努纽努维 - Nunyunuwi
 description: 2.0 - 南萨纳兰
 published: true
-date: 2022-05-01T22:10:22.000Z
+date: 2022-05-01T22:52:17.000Z
 tags: ffxiv, game
 editor: markdown
 dateCreated: 2022-01-01T00:00:00.000Z
 ---
 
-> 本页面由自动化程序生成于 2022年5月1日 22:10
+> 本页面由自动化程序生成于 2022年5月1日 22:52
 > 内容可能存在错误，如有bug请提交issue至：https://github.com/Eroleice/doc-pi/issues
 {.is-warning}
 
@@ -43,29 +43,19 @@ concise 宇宙和音
 concise 沃仙曦染
 concise 晨曦王座
 
-@宇宙和音
-0 is 可以刷新
-0 is 强制刷新
-24 is {hidden}
-
-@幻影群岛
-0 is 可以刷新
-0 is 强制刷新
-24 is {hidden}
-
 @红玉海
 0 is 可以刷新
-3 is 强制刷新
+2 is 强制刷新
 24 is {hidden}
 
 @晨曦王座
 0 is 可以刷新
-3 is 强制刷新
+2 is 强制刷新
 24 is {hidden}
 
 @沃仙曦染
 0 is 可以刷新
-4 is 强制刷新
+3 is 强制刷新
 24 is {hidden}
 
 @萌芽池
@@ -75,13 +65,21 @@ concise 晨曦王座
 
 @拉诺西亚
 0 is 可以刷新
-5 is 强制刷新
+4 is 强制刷新
 24 is {hidden}
 
 @神意之地
 0 is 冷却
-11 is 可以刷新
-21 is 强制刷新
+10 is 可以刷新
+20 is 强制刷新
+24 is {hidden}
+
+@宇宙和音
+0 is 冷却
+24 is {hidden}
+
+@幻影群岛
+0 is 冷却
 24 is {hidden}
 
 @enduml
@@ -102,39 +100,35 @@ concise 拂晓之间
 concise 龙巢神殿
 concise 梦羽宝境
 
-@拂晓之间
-0 is 可以刷新
-0 is 强制刷新
-24 is {hidden}
-
-@白金幻象
-0 is 可以刷新
-0 is 强制刷新
-24 is {hidden}
-
-@梦羽宝境
-0 is 可以刷新
-0 is 强制刷新
-24 is {hidden}
-
-@神拳痕
-0 is 可以刷新
-0 is 强制刷新
-24 is {hidden}
-
 @白银乡
 0 is 可以刷新
-1 is 强制刷新
+0 is 强制刷新
 24 is {hidden}
 
 @龙巢神殿
 0 is 可以刷新
-1 is 强制刷新
+0 is 强制刷新
 24 is {hidden}
 
 @旅人栈桥
 0 is 可以刷新
 5 is 强制刷新
+24 is {hidden}
+
+@拂晓之间
+0 is 冷却
+24 is {hidden}
+
+@白金幻象
+0 is 冷却
+24 is {hidden}
+
+@梦羽宝境
+0 is 冷却
+24 is {hidden}
+
+@神拳痕
+0 is 冷却
 24 is {hidden}
 
 @enduml
@@ -154,21 +148,6 @@ concise 海猫茶屋
 concise 柔风海湾
 concise 琥珀原
 
-@紫水栈桥
-0 is 可以刷新
-0 is 强制刷新
-24 is {hidden}
-
-@静语庄园
-0 is 可以刷新
-0 is 强制刷新
-24 is {hidden}
-
-@柔风海湾
-0 is 可以刷新
-0 is 强制刷新
-24 is {hidden}
-
 @摩杜纳
 0 is 可以刷新
 1 is 强制刷新
@@ -176,19 +155,31 @@ concise 琥珀原
 
 @海猫茶屋
 0 is 可以刷新
-9 is 强制刷新
+8 is 强制刷新
 24 is {hidden}
 
 @延夏
+0 is 冷却
+8 is 可以刷新
+18 is 强制刷新
+24 is {hidden}
+
+@琥珀原
 0 is 冷却
 9 is 可以刷新
 19 is 强制刷新
 24 is {hidden}
 
-@琥珀原
+@紫水栈桥
 0 is 冷却
-10 is 可以刷新
-20 is 强制刷新
+24 is {hidden}
+
+@静语庄园
+0 is 冷却
+24 is {hidden}
+
+@柔风海湾
+0 is 冷却
 24 is {hidden}
 
 @enduml
@@ -206,24 +197,21 @@ concise 太阳海岸
 concise 伊修加德
 concise 红茶川
 
-@银泪湖
-0 is 可以刷新
-0 is 强制刷新
-24 is {hidden}
-
-@伊修加德
-0 is 可以刷新
-0 is 强制刷新
-24 is {hidden}
-
-@水晶塔
-0 is 可以刷新
-0 is 强制刷新
-24 is {hidden}
-
 @太阳海岸
 0 is 可以刷新
 8 is 强制刷新
+24 is {hidden}
+
+@银泪湖
+0 is 冷却
+24 is {hidden}
+
+@伊修加德
+0 is 冷却
+24 is {hidden}
+
+@水晶塔
+0 is 冷却
 24 is {hidden}
 
 @enduml
@@ -248,7 +236,7 @@ concise Unicorn
 
 @Tonberry
 0 is 可以刷新
-7 is 强制刷新
+6 is 强制刷新
 24 is {hidden}
 
 @Atomos
@@ -264,7 +252,7 @@ concise Unicorn
 
 @Typhon
 0 is 冷却
-20 is 可以刷新
+19 is 可以刷新
 24 is {hidden}
 
 @Unicorn
@@ -302,7 +290,7 @@ concise Zeromus
 
 @Ultima
 0 is 可以刷新
-2 is 强制刷新
+1 is 强制刷新
 24 is {hidden}
 
 @Yojimbo
@@ -312,7 +300,7 @@ concise Zeromus
 
 @Valefor
 0 is 可以刷新
-8 is 强制刷新
+7 is 强制刷新
 24 is {hidden}
 
 @Alexander
@@ -323,13 +311,13 @@ concise Zeromus
 
 @Bahamut
 0 is 冷却
-13 is 可以刷新
-23 is 强制刷新
+12 is 可以刷新
+22 is 强制刷新
 24 is {hidden}
 
 @Fenrir
 0 is 冷却
-18 is 可以刷新
+17 is 可以刷新
 24 is {hidden}
 
 @Ifrit
@@ -364,7 +352,7 @@ concise Titan
 
 @Titan
 0 is 可以刷新
-7 is 强制刷新
+6 is 强制刷新
 24 is {hidden}
 
 @Anima
@@ -374,7 +362,7 @@ concise Titan
 
 @Asura
 0 is 冷却
-22 is 可以刷新
+21 is 可以刷新
 24 is {hidden}
 
 @Hades
@@ -405,8 +393,8 @@ concise Siren
 
 @Faerie
 0 is 冷却
-6 is 可以刷新
-16 is 强制刷新
+5 is 可以刷新
+15 is 强制刷新
 24 is {hidden}
 
 @Gilgamesh
@@ -417,18 +405,19 @@ concise Siren
 
 @Sargatanas
 0 is 冷却
-11 is 可以刷新
-21 is 强制刷新
+10 is 可以刷新
+20 is 强制刷新
 24 is {hidden}
 
 @Cactuar
 0 is 冷却
-11 is 可以刷新
-21 is 强制刷新
+10 is 可以刷新
+20 is 强制刷新
 24 is {hidden}
 
 @Adamantoise
 0 is 冷却
+23 is 可以刷新
 24 is {hidden}
 
 @Siren
@@ -469,8 +458,8 @@ concise Ultros
 
 @Excalibur
 0 is 冷却
-1 is 可以刷新
-11 is 强制刷新
+0 is 可以刷新
+10 is 强制刷新
 24 is {hidden}
 
 @Lamia
@@ -503,8 +492,8 @@ concise Zalera
 
 @Brynhildr
 0 is 冷却
-2 is 可以刷新
-12 is 强制刷新
+1 is 可以刷新
+11 is 强制刷新
 24 is {hidden}
 
 @Goblin
@@ -515,7 +504,7 @@ concise Zalera
 
 @Zalera
 0 is 冷却
-16 is 可以刷新
+15 is 可以刷新
 24 is {hidden}
 
 @Malboro
@@ -563,14 +552,14 @@ concise Spriggan
 
 @Omega
 0 is 冷却
-3 is 可以刷新
-13 is 强制刷新
+2 is 可以刷新
+12 is 强制刷新
 24 is {hidden}
 
 @Louisoix
 0 is 冷却
-3 is 可以刷新
-13 is 强制刷新
+2 is 可以刷新
+12 is 强制刷新
 24 is {hidden}
 
 @Cerberus
@@ -603,14 +592,14 @@ concise Zodiark
 
 @Twintania
 0 is 冷却
-3 is 可以刷新
-13 is 强制刷新
+2 is 可以刷新
+12 is 强制刷新
 24 is {hidden}
 
 @Lich
 0 is 冷却
-4 is 可以刷新
-14 is 强制刷新
+3 is 可以刷新
+13 is 强制刷新
 24 is {hidden}
 
 @Odin
@@ -620,7 +609,7 @@ concise Zodiark
 
 @Zodiark
 0 is 冷却
-20 is 可以刷新
+19 is 可以刷新
 24 is {hidden}
 
 @enduml
@@ -640,12 +629,12 @@ concise Zurvan
 
 @Sophia
 0 is 可以刷新
-9 is 强制刷新
+8 is 强制刷新
 24 is {hidden}
 
 @Zurvan
 0 is 冷却
-20 is 可以刷新
+19 is 可以刷新
 24 is {hidden}
 
 @Ravana

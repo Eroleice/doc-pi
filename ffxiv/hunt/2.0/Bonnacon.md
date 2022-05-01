@@ -2,13 +2,13 @@
 title: 火愤牛 - Bonnacon
 description: 2.0 - 西拉诺西亚
 published: true
-date: 2022-05-01T22:10:22.000Z
+date: 2022-05-01T22:52:17.000Z
 tags: ffxiv, game
 editor: markdown
 dateCreated: 2022-01-01T00:00:00.000Z
 ---
 
-> 本页面由自动化程序生成于 2022年5月1日 22:10
+> 本页面由自动化程序生成于 2022年5月1日 22:52
 > 内容可能存在错误，如有bug请提交issue至：https://github.com/Eroleice/doc-pi/issues
 {.is-warning}
 
@@ -45,12 +45,12 @@ concise 晨曦王座
 
 @萌芽池
 0 is 冷却
-21 is 可以刷新
+20 is 可以刷新
 24 is {hidden}
 
 @沃仙曦染
 0 is 冷却
-21 is 可以刷新
+20 is 可以刷新
 24 is {hidden}
 
 @宇宙和音
@@ -71,7 +71,7 @@ concise 晨曦王座
 
 @神意之地
 0 is 冷却
-23 is 可以刷新
+22 is 可以刷新
 24 is {hidden}
 
 @晨曦王座
@@ -98,7 +98,7 @@ concise 梦羽宝境
 
 @神拳痕
 0 is 冷却
-21 is 可以刷新
+20 is 可以刷新
 24 is {hidden}
 
 @白银乡
@@ -123,7 +123,7 @@ concise 梦羽宝境
 
 @白金幻象
 0 is 冷却
-23 is 可以刷新
+22 is 可以刷新
 24 is {hidden}
 
 @旅人栈桥
@@ -149,7 +149,7 @@ concise 琥珀原
 
 @紫水栈桥
 0 is 冷却
-21 is 可以刷新
+20 is 可以刷新
 24 is {hidden}
 
 @海猫茶屋
@@ -162,12 +162,12 @@ concise 琥珀原
 
 @静语庄园
 0 is 冷却
-23 is 可以刷新
+22 is 可以刷新
 24 is {hidden}
 
 @琥珀原
 0 is 冷却
-23 is 可以刷新
+22 is 可以刷新
 24 is {hidden}
 
 @延夏
@@ -660,11 +660,11 @@ concise Zurvan
 0 is 冷却
 24 is {hidden}
 
-@Sephirot
+@Zurvan
 0 is 冷却
 24 is {hidden}
 
-@Zurvan
+@Sephirot
 0 is 冷却
 24 is {hidden}
 

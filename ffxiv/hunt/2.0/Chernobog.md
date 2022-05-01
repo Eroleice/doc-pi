@@ -2,13 +2,13 @@
 title: 牛头黑神 - Chernobog
 description: 2.0 - 拉诺西亚外地
 published: true
-date: 2022-05-01T22:10:22.000Z
+date: 2022-05-01T22:52:17.000Z
 tags: ffxiv, game
 editor: markdown
 dateCreated: 2022-01-01T00:00:00.000Z
 ---
 
-> 本页面由自动化程序生成于 2022年5月1日 22:10
+> 本页面由自动化程序生成于 2022年5月1日 22:52
 > 内容可能存在错误，如有bug请提交issue至：https://github.com/Eroleice/doc-pi/issues
 {.is-warning}
 
@@ -45,7 +45,7 @@ concise 晨曦王座
 
 @红玉海
 0 is 冷却
-20 is 可以刷新
+19 is 可以刷新
 24 is {hidden}
 
 @萌芽池
@@ -60,24 +60,27 @@ concise 晨曦王座
 
 @沃仙曦染
 0 is 冷却
-21 is 可以刷新
+20 is 可以刷新
 24 is {hidden}
 
 @晨曦王座
 0 is 冷却
-21 is 可以刷新
+20 is 可以刷新
 24 is {hidden}
 
 @拉诺西亚
 0 is 冷却
+23 is 可以刷新
 24 is {hidden}
 
 @幻影群岛
 0 is 冷却
+23 is 可以刷新
 24 is {hidden}
 
 @宇宙和音
 0 is 冷却
+23 is 可以刷新
 24 is {hidden}
 
 @enduml
@@ -105,7 +108,7 @@ concise 梦羽宝境
 
 @拂晓之间
 0 is 冷却
-21 is 可以刷新
+20 is 可以刷新
 24 is {hidden}
 
 @白银乡
@@ -125,15 +128,17 @@ concise 梦羽宝境
 
 @潮风亭
 0 is 冷却
+23 is 可以刷新
 24 is {hidden}
 
 @旅人栈桥
 0 is 冷却
+23 is 可以刷新
 24 is {hidden}
 
 @龙巢神殿
 0 is 冷却
-23 is 可以刷新
+22 is 可以刷新
 24 is {hidden}
 
 @enduml
@@ -155,36 +160,37 @@ concise 琥珀原
 
 @海猫茶屋
 0 is 冷却
-19 is 可以刷新
+18 is 可以刷新
 24 is {hidden}
 
 @静语庄园
 0 is 冷却
-20 is 可以刷新
+19 is 可以刷新
 24 is {hidden}
 
 @琥珀原
 0 is 冷却
-20 is 可以刷新
+19 is 可以刷新
 24 is {hidden}
 
 @摩杜纳
 0 is 冷却
-21 is 可以刷新
+20 is 可以刷新
 24 is {hidden}
 
 @延夏
 0 is 冷却
-22 is 可以刷新
+21 is 可以刷新
 24 is {hidden}
 
 @柔风海湾
 0 is 冷却
-22 is 可以刷新
+21 is 可以刷新
 24 is {hidden}
 
 @紫水栈桥
 0 is 冷却
+23 is 可以刷新
 24 is {hidden}
 
 @enduml
@@ -204,23 +210,27 @@ concise 红茶川
 
 @太阳海岸
 0 is 冷却
-20 is 可以刷新
+19 is 可以刷新
 24 is {hidden}
 
 @银泪湖
 0 is 冷却
+23 is 可以刷新
 24 is {hidden}
 
 @水晶塔
 0 is 冷却
+23 is 可以刷新
 24 is {hidden}
 
 @红茶川
 0 is 冷却
+23 is 可以刷新
 24 is {hidden}
 
 @伊修加德
 0 is 冷却
+23 is 可以刷新
 24 is {hidden}
 
 @enduml

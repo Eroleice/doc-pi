@@ -1,29 +1,29 @@
 ---
-title: 爬骨怪龙 - Bone Crawler
-description: 4.0 - 基拉巴尼亚山区
+title: 极乐鸟 - Bird of Paradise
+description: 3.0 - 阿巴拉提亚云海
 published: true
-date: 2022-05-01T22:10:22.000Z
+date: 2022-05-01T22:52:17.000Z
 tags: ffxiv, game
 editor: markdown
 dateCreated: 2022-01-01T00:00:00.000Z
 ---
 
-> 本页面由自动化程序生成于 2022年5月1日 22:10
+> 本页面由自动化程序生成于 2022年5月1日 22:52
 > 内容可能存在错误，如有bug请提交issue至：https://github.com/Eroleice/doc-pi/issues
 {.is-warning}
 
-## 爬骨怪龙
+## 极乐鸟
 
-*爬骨怪龙* 是最终幻想XIV **4.0** 资料片的S级狩猎怪，刷新于**基拉巴尼亚山区**，详细信息如下：
+*极乐鸟* 是最终幻想XIV **3.0** 资料片的S级狩猎怪，刷新于**阿巴拉提亚云海**，详细信息如下：
 
-- 中文名称: 爬骨怪龙
-- 英文名称: Bone Crawler
-- 资料片: 4.0
-- 等级: Lv. 70
-- 所属地图: 基拉巴尼亚山区
+- 中文名称: 极乐鸟
+- 英文名称: Bird of Paradise
+- 资料片: 3.0
+- 等级: Lv. 60
+- 所属地图: 阿巴拉提亚云海
 - 刷新冷却: 84 小时（或服务器维护后50 小时）
 - 强制刷新冷却: 132 小时（或服务器维护后80 小时）
-- 触发条件: 陆行鸟运输服务，路径途中触发。
+- 触发条件: 让B怪“斯奎克”放出“唧唧咋咋” 的技能
 
 
 ## 刷新时间轴统计
@@ -47,23 +47,11 @@ concise 晨曦王座
 0 is 冷却
 24 is {hidden}
 
-@红玉海
-0 is 冷却
-24 is {hidden}
-
 @萌芽池
 0 is 冷却
 24 is {hidden}
 
-@晨曦王座
-0 is 冷却
-24 is {hidden}
-
 @幻影群岛
-0 is 冷却
-24 is {hidden}
-
-@神意之地
 0 is 冷却
 24 is {hidden}
 
@@ -72,6 +60,18 @@ concise 晨曦王座
 24 is {hidden}
 
 @沃仙曦染
+0 is 冷却
+24 is {hidden}
+
+@晨曦王座
+0 is 冷却
+24 is {hidden}
+
+@神意之地
+0 is 冷却
+24 is {hidden}
+
+@红玉海
 0 is 冷却
 24 is {hidden}
 
@@ -101,11 +101,7 @@ concise 梦羽宝境
 0 is 冷却
 24 is {hidden}
 
-@旅人栈桥
-0 is 冷却
-24 is {hidden}
-
-@拂晓之间
+@白银乡
 0 is 冷却
 24 is {hidden}
 
@@ -113,7 +109,7 @@ concise 梦羽宝境
 0 is 冷却
 24 is {hidden}
 
-@神拳痕
+@拂晓之间
 0 is 冷却
 24 is {hidden}
 
@@ -121,7 +117,11 @@ concise 梦羽宝境
 0 is 冷却
 24 is {hidden}
 
-@白银乡
+@旅人栈桥
+0 is 冷却
+24 is {hidden}
+
+@神拳痕
 0 is 冷却
 24 is {hidden}
 
@@ -142,15 +142,11 @@ concise 海猫茶屋
 concise 柔风海湾
 concise 琥珀原
 
+@柔风海湾
+0 is 冷却
+24 is {hidden}
+
 @琥珀原
-0 is 冷却
-24 is {hidden}
-
-@摩杜纳
-0 is 冷却
-24 is {hidden}
-
-@海猫茶屋
 0 is 冷却
 24 is {hidden}
 
@@ -162,11 +158,15 @@ concise 琥珀原
 0 is 冷却
 24 is {hidden}
 
-@柔风海湾
+@摩杜纳
 0 is 冷却
 24 is {hidden}
 
 @紫水栈桥
+0 is 冷却
+24 is {hidden}
+
+@海猫茶屋
 0 is 冷却
 24 is {hidden}
 
@@ -185,7 +185,15 @@ concise 太阳海岸
 concise 伊修加德
 concise 红茶川
 
+@银泪湖
+0 is 冷却
+24 is {hidden}
+
 @红茶川
+0 is 冷却
+24 is {hidden}
+
+@伊修加德
 0 is 冷却
 24 is {hidden}
 
@@ -193,11 +201,7 @@ concise 红茶川
 0 is 冷却
 24 is {hidden}
 
-@银泪湖
-0 is 冷却
-24 is {hidden}
-
-@伊修加德
+@太阳海岸
 0 is 冷却
 24 is {hidden}
 
@@ -221,35 +225,27 @@ concise Tonberry
 concise Typhon
 concise Unicorn
 
-@Garuda
-0 is 冷却
-14 is 可以刷新
-24 is {hidden}
-
 @Aegis
-0 is 冷却
-18 is 可以刷新
-24 is {hidden}
-
-@Unicorn
-0 is 冷却
-20 is 可以刷新
-24 is {hidden}
-
-@Typhon
-0 is 冷却
-23 is 可以刷新
-24 is {hidden}
-
-@Kujata
-0 is 冷却
+0 is 可以刷新
+12 is 强制刷新
 24 is {hidden}
 
 @Ramuh
 0 is 冷却
+7 is 可以刷新
 24 is {hidden}
 
-@Carbuncle
+@Typhon
+0 is 冷却
+13 is 可以刷新
+24 is {hidden}
+
+@Garuda
+0 is 冷却
+21 is 可以刷新
+24 is {hidden}
+
+@Tonberry
 0 is 冷却
 24 is {hidden}
 
@@ -257,7 +253,15 @@ concise Unicorn
 0 is 冷却
 24 is {hidden}
 
-@Tonberry
+@Unicorn
+0 is 冷却
+24 is {hidden}
+
+@Carbuncle
+0 is 冷却
+24 is {hidden}
+
+@Kujata
 0 is 冷却
 24 is {hidden}
 
@@ -282,53 +286,52 @@ concise Valefor
 concise Yojimbo
 concise Zeromus
 
-@Yojimbo
+@Alexander
 0 is 可以刷新
-20 is 强制刷新
-24 is {hidden}
-
-@Bahamut
-0 is 可以刷新
+10 is 强制刷新
 24 is {hidden}
 
 @Valefor
 0 is 冷却
-9 is 可以刷新
-24 is {hidden}
-
-@Ultima
-0 is 冷却
-10 is 可以刷新
-24 is {hidden}
-
-@Alexander
-0 is 冷却
-10 is 可以刷新
+11 is 可以刷新
 24 is {hidden}
 
 @Ridill
 0 is 冷却
-14 is 可以刷新
+18 is 可以刷新
+24 is {hidden}
+
+@Ifrit
+0 is 冷却
+19 is 可以刷新
+24 is {hidden}
+
+@Bahamut
+0 is 冷却
+24 is {hidden}
+
+@Yojimbo
+0 is 冷却
+24 is {hidden}
+
+@Ultima
+0 is 冷却
 24 is {hidden}
 
 @Tiamat
 0 is 冷却
-15 is 可以刷新
 24 is {hidden}
 
 @Durandal
 0 is 冷却
-22 is 可以刷新
-24 is {hidden}
-
-@Fenrir
-0 is 冷却
-22 is 可以刷新
 24 is {hidden}
 
 @Zeromus
 0 is 冷却
-23 is 可以刷新
+24 is {hidden}
+
+@Fenrir
+0 is 冷却
 24 is {hidden}
 
 @enduml
@@ -353,30 +356,45 @@ concise Shinryu
 concise Titan
 
 @Hades
-0 is 可以刷新
-0 is 强制刷新
+0 is 冷却
+10 is 可以刷新
 24 is {hidden}
 
-@Shinryu
+@Belias
 0 is 冷却
-15 is 可以刷新
+10 is 可以刷新
 24 is {hidden}
 
 @Titan
 0 is 冷却
-20 is 可以刷新
+11 is 可以刷新
 24 is {hidden}
 
 @Chocobo
 0 is 冷却
-23 is 可以刷新
+12 is 可以刷新
+24 is {hidden}
+
+@Mandragora
+0 is 冷却
+13 is 可以刷新
 24 is {hidden}
 
 @Asura
 0 is 冷却
+21 is 可以刷新
 24 is {hidden}
 
-@Belias
+@Masamune
+0 is 冷却
+22 is 可以刷新
+24 is {hidden}
+
+@Anima
+0 is 冷却
+24 is {hidden}
+
+@Shinryu
 0 is 冷却
 24 is {hidden}
 
@@ -384,19 +402,7 @@ concise Titan
 0 is 冷却
 24 is {hidden}
 
-@Masamune
-0 is 冷却
-24 is {hidden}
-
 @Ixion
-0 is 冷却
-24 is {hidden}
-
-@Mandragora
-0 is 冷却
-24 is {hidden}
-
-@Anima
 0 is 冷却
 24 is {hidden}
 
@@ -418,32 +424,31 @@ concise Midgardsormr
 concise Sargatanas
 concise Siren
 
+@Midgardsormr
+0 is 冷却
+13 is 可以刷新
+24 is {hidden}
+
 @Faerie
 0 is 冷却
-9 is 可以刷新
+15 is 可以刷新
 24 is {hidden}
 
 @Siren
 0 is 冷却
-11 is 可以刷新
-24 is {hidden}
-
-@Sargatanas
-0 is 冷却
-17 is 可以刷新
-24 is {hidden}
-
-@Cactuar
-0 is 冷却
-22 is 可以刷新
+16 is 可以刷新
 24 is {hidden}
 
 @Adamantoise
 0 is 冷却
-23 is 可以刷新
+22 is 可以刷新
 24 is {hidden}
 
-@Midgardsormr
+@Cactuar
+0 is 冷却
+24 is {hidden}
+
+@Sargatanas
 0 is 冷却
 24 is {hidden}
 
@@ -473,26 +478,30 @@ concise Lamia
 concise Leviathan
 concise Ultros
 
-@Leviathan
+@Exodus
 0 is 冷却
 11 is 可以刷新
 24 is {hidden}
 
-@Behemoth
+@Excalibur
 0 is 冷却
-16 is 可以刷新
+18 is 可以刷新
 24 is {hidden}
 
-@Exodus
+@Ultros
 0 is 冷却
 20 is 可以刷新
 24 is {hidden}
 
-@Hyperion
+@Behemoth
 0 is 冷却
 24 is {hidden}
 
-@Ultros
+@Lamia
+0 is 冷却
+24 is {hidden}
+
+@Leviathan
 0 is 冷却
 24 is {hidden}
 
@@ -500,11 +509,7 @@ concise Ultros
 0 is 冷却
 24 is {hidden}
 
-@Excalibur
-0 is 冷却
-24 is {hidden}
-
-@Lamia
+@Hyperion
 0 is 冷却
 24 is {hidden}
 
@@ -526,42 +531,40 @@ concise Malboro
 concise Mateus
 concise Zalera
 
-@Goblin
-0 is 冷却
-9 is 可以刷新
-24 is {hidden}
-
-@Zalera
-0 is 冷却
-9 is 可以刷新
-24 is {hidden}
-
-@Malboro
-0 is 冷却
-13 is 可以刷新
-24 is {hidden}
-
-@Balmung
+@Brynhildr
 0 is 冷却
 14 is 可以刷新
 24 is {hidden}
 
 @Coeurl
 0 is 冷却
-17 is 可以刷新
+15 is 可以刷新
 24 is {hidden}
 
 @Diabolos
 0 is 冷却
-19 is 可以刷新
+15 is 可以刷新
+24 is {hidden}
+
+@Balmung
+0 is 冷却
+16 is 可以刷新
 24 is {hidden}
 
 @Mateus
 0 is 冷却
-22 is 可以刷新
+17 is 可以刷新
 24 is {hidden}
 
-@Brynhildr
+@Zalera
+0 is 冷却
+24 is {hidden}
+
+@Malboro
+0 is 冷却
+24 is {hidden}
+
+@Goblin
 0 is 冷却
 24 is {hidden}
 
@@ -581,17 +584,22 @@ concise Omega
 concise Ragnarok
 concise Spriggan
 
-@Cerberus
+@Louisoix
 0 is 冷却
-15 is 可以刷新
+9 is 可以刷新
 24 is {hidden}
 
-@Ragnarok
+@Spriggan
 0 is 冷却
 16 is 可以刷新
 24 is {hidden}
 
-@Spriggan
+@Ragnarok
+0 is 冷却
+23 is 可以刷新
+24 is {hidden}
+
+@Moogle
 0 is 冷却
 24 is {hidden}
 
@@ -599,11 +607,7 @@ concise Spriggan
 0 is 冷却
 24 is {hidden}
 
-@Moogle
-0 is 冷却
-24 is {hidden}
-
-@Louisoix
+@Cerberus
 0 is 冷却
 24 is {hidden}
 
@@ -623,29 +627,31 @@ concise Shiva
 concise Twintania
 concise Zodiark
 
-@Zodiark
-0 is 冷却
-18 is 可以刷新
-24 is {hidden}
-
 @Odin
 0 is 冷却
-20 is 可以刷新
-24 is {hidden}
-
-@Phoenix
-0 is 冷却
-24 is {hidden}
-
-@Shiva
-0 is 冷却
+10 is 可以刷新
 24 is {hidden}
 
 @Lich
 0 is 冷却
+12 is 可以刷新
+24 is {hidden}
+
+@Shiva
+0 is 冷却
+13 is 可以刷新
+24 is {hidden}
+
+@Phoenix
+0 is 冷却
+23 is 可以刷新
 24 is {hidden}
 
 @Twintania
+0 is 冷却
+24 is {hidden}
+
+@Zodiark
 0 is 冷却
 24 is {hidden}
 
@@ -664,21 +670,22 @@ concise Sephirot
 concise Sophia
 concise Zurvan
 
-@Zurvan
-0 is 可以刷新
-23 is 强制刷新
-24 is {hidden}
-
 @Bismarck
 0 is 冷却
-20 is 可以刷新
+10 is 可以刷新
 24 is {hidden}
 
-@Sophia
+@Zurvan
 0 is 冷却
+11 is 可以刷新
 24 is {hidden}
 
 @Sephirot
+0 is 冷却
+21 is 可以刷新
+24 is {hidden}
+
+@Sophia
 0 is 冷却
 24 is {hidden}
 

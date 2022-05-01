@@ -2,13 +2,13 @@
 title: 狭缝 - Narrow-rift
 description: 6.0 - 天外天垓
 published: true
-date: 2022-05-01T22:10:22.000Z
+date: 2022-05-01T22:52:17.000Z
 tags: ffxiv, game
 editor: markdown
 dateCreated: 2022-01-01T00:00:00.000Z
 ---
 
-> 本页面由自动化程序生成于 2022年5月1日 22:10
+> 本页面由自动化程序生成于 2022年5月1日 22:52
 > 内容可能存在错误，如有bug请提交issue至：https://github.com/Eroleice/doc-pi/issues
 {.is-warning}
 
@@ -451,12 +451,12 @@ concise Unicorn
 
 @Unicorn
 0 is 冷却
-11 is 可以刷新
+10 is 可以刷新
 24 is {hidden}
 
 @Aegis
 0 is 冷却
-11 is 可以刷新
+10 is 可以刷新
 24 is {hidden}
 
 @Garuda
@@ -466,12 +466,12 @@ concise Unicorn
 
 @Carbuncle
 0 is 冷却
-15 is 可以刷新
+14 is 可以刷新
 24 is {hidden}
 
 @Atomos
 0 is 冷却
-23 is 可以刷新
+22 is 可以刷新
 24 is {hidden}
 
 @Typhon
@@ -517,27 +517,27 @@ concise Zeromus
 
 @Ifrit
 0 is 冷却
-12 is 可以刷新
+11 is 可以刷新
 24 is {hidden}
 
 @Zeromus
 0 is 冷却
-13 is 可以刷新
+12 is 可以刷新
 24 is {hidden}
 
 @Ultima
 0 is 冷却
-19 is 可以刷新
+18 is 可以刷新
 24 is {hidden}
 
 @Tiamat
 0 is 冷却
-21 is 可以刷新
+20 is 可以刷新
 24 is {hidden}
 
 @Fenrir
 0 is 冷却
-23 is 可以刷新
+22 is 可以刷新
 24 is {hidden}
 
 @Yojimbo
@@ -592,12 +592,12 @@ concise Titan
 
 @Asura
 0 is 冷却
-14 is 可以刷新
+13 is 可以刷新
 24 is {hidden}
 
 @Mandragora
 0 is 冷却
-15 is 可以刷新
+14 is 可以刷新
 24 is {hidden}
 
 @Ixion
@@ -607,17 +607,17 @@ concise Titan
 
 @Shinryu
 0 is 冷却
-18 is 可以刷新
+17 is 可以刷新
 24 is {hidden}
 
 @Hades
 0 is 冷却
-19 is 可以刷新
+18 is 可以刷新
 24 is {hidden}
 
 @Belias
 0 is 冷却
-23 is 可以刷新
+22 is 可以刷新
 24 is {hidden}
 
 @Masamune
@@ -656,12 +656,12 @@ concise Siren
 
 @Sargatanas
 0 is 冷却
-13 is 可以刷新
+12 is 可以刷新
 24 is {hidden}
 
 @Gilgamesh
 0 is 冷却
-17 is 可以刷新
+16 is 可以刷新
 24 is {hidden}
 
 @Faerie
@@ -708,11 +708,12 @@ concise Ultros
 
 @Hyperion
 0 is 冷却
-20 is 可以刷新
+19 is 可以刷新
 24 is {hidden}
 
 @Leviathan
 0 is 冷却
+23 is 可以刷新
 24 is {hidden}
 
 @Ultros
@@ -759,22 +760,22 @@ concise Zalera
 
 @Malboro
 0 is 冷却
-12 is 可以刷新
+11 is 可以刷新
 24 is {hidden}
 
 @Goblin
 0 is 冷却
-12 is 可以刷新
+11 is 可以刷新
 24 is {hidden}
 
 @Diabolos
 0 is 冷却
-12 is 可以刷新
+11 is 可以刷新
 24 is {hidden}
 
 @Coeurl
 0 is 冷却
-15 is 可以刷新
+14 is 可以刷新
 24 is {hidden}
 
 @Zalera
@@ -789,7 +790,7 @@ concise Zalera
 
 @Balmung
 0 is 冷却
-23 is 可以刷新
+22 is 可以刷新
 24 is {hidden}
 
 @Brynhildr
@@ -814,12 +815,12 @@ concise Spriggan
 
 @Ragnarok
 0 is 冷却
-15 is 可以刷新
+14 is 可以刷新
 24 is {hidden}
 
 @Spriggan
 0 is 冷却
-15 is 可以刷新
+14 is 可以刷新
 24 is {hidden}
 
 @Louisoix
@@ -829,7 +830,7 @@ concise Spriggan
 
 @Moogle
 0 is 冷却
-20 is 可以刷新
+19 is 可以刷新
 24 is {hidden}
 
 @Omega
@@ -839,6 +840,7 @@ concise Spriggan
 
 @Cerberus
 0 is 冷却
+23 is 可以刷新
 24 is {hidden}
 
 @enduml
@@ -864,17 +866,17 @@ concise Zodiark
 
 @Twintania
 0 is 冷却
-12 is 可以刷新
+11 is 可以刷新
 24 is {hidden}
 
 @Zodiark
 0 is 冷却
-12 is 可以刷新
+11 is 可以刷新
 24 is {hidden}
 
 @Odin
 0 is 冷却
-17 is 可以刷新
+16 is 可以刷新
 24 is {hidden}
 
 @Shiva

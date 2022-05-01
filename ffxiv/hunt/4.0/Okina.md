@@ -2,13 +2,13 @@
 title: 巨大鳐 - Okina
 description: 4.0 - 红玉海
 published: true
-date: 2022-05-01T22:10:22.000Z
+date: 2022-05-01T22:52:17.000Z
 tags: ffxiv, game
 editor: markdown
 dateCreated: 2022-01-01T00:00:00.000Z
 ---
 
-> 本页面由自动化程序生成于 2022年5月1日 22:10
+> 本页面由自动化程序生成于 2022年5月1日 22:52
 > 内容可能存在错误，如有bug请提交issue至：https://github.com/Eroleice/doc-pi/issues
 {.is-warning}
 
@@ -215,7 +215,7 @@ concise Unicorn
 
 @Tonberry
 0 is 冷却
-16 is 可以刷新
+15 is 可以刷新
 24 is {hidden}
 
 @Ramuh
@@ -273,7 +273,7 @@ concise Zeromus
 
 @Ultima
 0 is 可以刷新
-22 is 强制刷新
+21 is 强制刷新
 24 is {hidden}
 
 @Yojimbo
@@ -449,17 +449,17 @@ concise Ultros
 
 @Hyperion
 0 is 可以刷新
-21 is 强制刷新
+20 is 强制刷新
 24 is {hidden}
 
 @Famfrit
 0 is 冷却
-12 is 可以刷新
+11 is 可以刷新
 24 is {hidden}
 
 @Exodus
 0 is 冷却
-13 is 可以刷新
+12 is 可以刷新
 24 is {hidden}
 
 @Lamia
@@ -503,22 +503,22 @@ concise Zalera
 
 @Diabolos
 0 is 可以刷新
-21 is 强制刷新
+20 is 强制刷新
 24 is {hidden}
 
 @Balmung
 0 is 冷却
-12 is 可以刷新
+11 is 可以刷新
 24 is {hidden}
 
 @Brynhildr
 0 is 冷却
-13 is 可以刷新
+12 is 可以刷新
 24 is {hidden}
 
 @Zalera
 0 is 冷却
-18 is 可以刷新
+17 is 可以刷新
 24 is {hidden}
 
 @Goblin

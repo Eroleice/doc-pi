@@ -2,13 +2,13 @@
 title: 布隆特斯 - Brontes
 description: 2.0 - 中萨纳兰
 published: true
-date: 2022-05-01T22:10:22.000Z
+date: 2022-05-01T22:52:17.000Z
 tags: ffxiv, game
 editor: markdown
 dateCreated: 2022-01-01T00:00:00.000Z
 ---
 
-> 本页面由自动化程序生成于 2022年5月1日 22:10
+> 本页面由自动化程序生成于 2022年5月1日 22:52
 > 内容可能存在错误，如有bug请提交issue至：https://github.com/Eroleice/doc-pi/issues
 {.is-warning}
 
@@ -145,7 +145,7 @@ concise 琥珀原
 
 @柔风海湾
 0 is 冷却
-23 is 可以刷新
+22 is 可以刷新
 24 is {hidden}
 
 @静语庄园
@@ -563,11 +563,6 @@ concise Omega
 concise Ragnarok
 concise Spriggan
 
-@Omega
-0 is 可以刷新
-0 is 强制刷新
-24 is {hidden}
-
 @Ragnarok
 0 is 冷却
 24 is {hidden}
@@ -585,6 +580,10 @@ concise Spriggan
 24 is {hidden}
 
 @Louisoix
+0 is 冷却
+24 is {hidden}
+
+@Omega
 0 is 冷却
 24 is {hidden}
 
@@ -606,7 +605,7 @@ concise Zodiark
 
 @Lich
 0 is 可以刷新
-3 is 强制刷新
+2 is 强制刷新
 24 is {hidden}
 
 @Zodiark

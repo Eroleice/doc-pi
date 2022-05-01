@@ -2,13 +2,13 @@
 title: 蚓螈巨虫 - Minhocao
 description: 2.0 - 北萨纳兰
 published: true
-date: 2022-05-01T22:10:22.000Z
+date: 2022-05-01T22:52:17.000Z
 tags: ffxiv, game
 editor: markdown
 dateCreated: 2022-01-01T00:00:00.000Z
 ---
 
-> 本页面由自动化程序生成于 2022年5月1日 22:10
+> 本页面由自动化程序生成于 2022年5月1日 22:52
 > 内容可能存在错误，如有bug请提交issue至：https://github.com/Eroleice/doc-pi/issues
 {.is-warning}
 
@@ -45,32 +45,32 @@ concise 晨曦王座
 
 @红玉海
 0 is 冷却
-8 is 可以刷新
-14 is 强制刷新
+7 is 可以刷新
+13 is 强制刷新
 24 is {hidden}
 
 @沃仙曦染
 0 is 冷却
-8 is 可以刷新
-14 is 强制刷新
+7 is 可以刷新
+13 is 强制刷新
 24 is {hidden}
 
 @宇宙和音
 0 is 冷却
-8 is 可以刷新
-14 is 强制刷新
+7 is 可以刷新
+13 is 强制刷新
 24 is {hidden}
 
 @晨曦王座
 0 is 冷却
-8 is 可以刷新
-14 is 强制刷新
+7 is 可以刷新
+13 is 强制刷新
 24 is {hidden}
 
 @拉诺西亚
 0 is 冷却
-9 is 可以刷新
-15 is 强制刷新
+8 is 可以刷新
+14 is 强制刷新
 24 is {hidden}
 
 @萌芽池
@@ -81,14 +81,14 @@ concise 晨曦王座
 
 @神意之地
 0 is 冷却
-10 is 可以刷新
-16 is 强制刷新
+9 is 可以刷新
+15 is 强制刷新
 24 is {hidden}
 
 @幻影群岛
 0 is 冷却
-10 is 可以刷新
-16 is 强制刷新
+9 is 可以刷新
+15 is 强制刷新
 24 is {hidden}
 
 @enduml
@@ -117,8 +117,8 @@ concise 梦羽宝境
 
 @旅人栈桥
 0 is 冷却
-8 is 可以刷新
-14 is 强制刷新
+7 is 可以刷新
+13 is 强制刷新
 24 is {hidden}
 
 @神拳痕
@@ -129,20 +129,20 @@ concise 梦羽宝境
 
 @梦羽宝境
 0 is 冷却
-11 is 可以刷新
-15 is 强制刷新
+10 is 可以刷新
+14 is 强制刷新
 24 is {hidden}
 
 @拂晓之间
 0 is 冷却
-9 is 可以刷新
-15 is 强制刷新
+8 is 可以刷新
+14 is 强制刷新
 24 is {hidden}
 
 @白银乡
 0 is 冷却
-9 is 可以刷新
-15 is 强制刷新
+8 is 可以刷新
+14 is 强制刷新
 24 is {hidden}
 
 @潮风亭
@@ -176,8 +176,8 @@ concise 琥珀原
 
 @延夏
 0 is 冷却
-8 is 可以刷新
-14 is 强制刷新
+7 is 可以刷新
+13 is 强制刷新
 24 is {hidden}
 
 @静语庄园
@@ -188,32 +188,32 @@ concise 琥珀原
 
 @柔风海湾
 0 is 冷却
-11 is 可以刷新
-15 is 强制刷新
+10 is 可以刷新
+14 is 强制刷新
 24 is {hidden}
 
 @琥珀原
 0 is 冷却
-11 is 可以刷新
-15 is 强制刷新
+10 is 可以刷新
+14 is 强制刷新
 24 is {hidden}
 
 @海猫茶屋
 0 is 冷却
-9 is 可以刷新
-15 is 强制刷新
+8 is 可以刷新
+14 is 强制刷新
 24 is {hidden}
 
 @紫水栈桥
 0 is 冷却
-9 is 可以刷新
-15 is 强制刷新
+8 is 可以刷新
+14 is 强制刷新
 24 is {hidden}
 
 @摩杜纳
 0 is 冷却
-10 is 可以刷新
-16 is 强制刷新
+9 is 可以刷新
+15 is 强制刷新
 24 is {hidden}
 
 @enduml
@@ -233,32 +233,32 @@ concise 红茶川
 
 @银泪湖
 0 is 冷却
-11 is 可以刷新
-15 is 强制刷新
+10 is 可以刷新
+14 is 强制刷新
 24 is {hidden}
 
 @红茶川
 0 is 冷却
-11 is 可以刷新
-15 is 强制刷新
+10 is 可以刷新
+14 is 强制刷新
 24 is {hidden}
 
 @伊修加德
 0 is 冷却
-11 is 可以刷新
-15 is 强制刷新
+10 is 可以刷新
+14 is 强制刷新
 24 is {hidden}
 
 @太阳海岸
 0 is 冷却
-11 is 可以刷新
-15 is 强制刷新
+10 is 可以刷新
+14 is 强制刷新
 24 is {hidden}
 
 @水晶塔
 0 is 冷却
-11 is 可以刷新
-15 is 强制刷新
+10 is 可以刷新
+14 is 强制刷新
 24 is {hidden}
 
 @enduml

@@ -2,13 +2,13 @@
 title: 顾尼图 - Gunitt
 description: 5.0 - 黑风海
 published: true
-date: 2022-05-01T22:10:22.000Z
+date: 2022-05-01T22:52:17.000Z
 tags: ffxiv, game
 editor: markdown
 dateCreated: 2022-01-01T00:00:00.000Z
 ---
 
-> 本页面由自动化程序生成于 2022年5月1日 22:10
+> 本页面由自动化程序生成于 2022年5月1日 22:52
 > 内容可能存在错误，如有bug请提交issue至：https://github.com/Eroleice/doc-pi/issues
 {.is-warning}
 
@@ -237,21 +237,22 @@ concise Unicorn
 
 @Carbuncle
 0 is 冷却
-13 is 可以刷新
+12 is 可以刷新
 24 is {hidden}
 
 @Atomos
 0 is 冷却
-17 is 可以刷新
+16 is 可以刷新
 24 is {hidden}
 
 @Gungnir
 0 is 冷却
-20 is 可以刷新
+19 is 可以刷新
 24 is {hidden}
 
 @Kujata
 0 is 冷却
+23 is 可以刷新
 24 is {hidden}
 
 @Tonberry
@@ -293,7 +294,7 @@ concise Zeromus
 
 @Yojimbo
 0 is 冷却
-11 is 可以刷新
+10 is 可以刷新
 24 is {hidden}
 
 @Fenrir
@@ -303,12 +304,12 @@ concise Zeromus
 
 @Bahamut
 0 is 冷却
-13 is 可以刷新
+12 is 可以刷新
 24 is {hidden}
 
 @Tiamat
 0 is 冷却
-14 is 可以刷新
+13 is 可以刷新
 24 is {hidden}
 
 @Valefor
@@ -368,12 +369,12 @@ concise Titan
 
 @Asura
 0 is 冷却
-13 is 可以刷新
+12 is 可以刷新
 24 is {hidden}
 
 @Mandragora
 0 is 冷却
-14 is 可以刷新
+13 is 可以刷新
 24 is {hidden}
 
 @Anima
@@ -388,7 +389,7 @@ concise Titan
 
 @Titan
 0 is 冷却
-23 is 可以刷新
+22 is 可以刷新
 24 is {hidden}
 
 @Ixion
@@ -431,7 +432,7 @@ concise Siren
 
 @Cactuar
 0 is 冷却
-17 is 可以刷新
+16 is 可以刷新
 24 is {hidden}
 
 @Faerie
@@ -484,17 +485,17 @@ concise Ultros
 
 @Behemoth
 0 is 冷却
-10 is 可以刷新
+9 is 可以刷新
 24 is {hidden}
 
 @Hyperion
 0 is 冷却
-18 is 可以刷新
+17 is 可以刷新
 24 is {hidden}
 
 @Exodus
 0 is 冷却
-21 is 可以刷新
+20 is 可以刷新
 24 is {hidden}
 
 @Famfrit
@@ -537,22 +538,22 @@ concise Zalera
 
 @Mateus
 0 is 冷却
-14 is 可以刷新
+13 is 可以刷新
 24 is {hidden}
 
 @Coeurl
 0 is 冷却
-15 is 可以刷新
+14 is 可以刷新
 24 is {hidden}
 
 @Zalera
 0 is 冷却
-15 is 可以刷新
+14 is 可以刷新
 24 is {hidden}
 
 @Balmung
 0 is 冷却
-19 is 可以刷新
+18 is 可以刷新
 24 is {hidden}
 
 @Goblin
@@ -589,12 +590,12 @@ concise Spriggan
 
 @Cerberus
 0 is 冷却
-17 is 可以刷新
+16 is 可以刷新
 24 is {hidden}
 
 @Spriggan
 0 is 冷却
-21 is 可以刷新
+20 is 可以刷新
 24 is {hidden}
 
 @Ragnarok
@@ -632,12 +633,12 @@ concise Zodiark
 
 @Odin
 0 is 冷却
-13 is 可以刷新
+12 is 可以刷新
 24 is {hidden}
 
 @Shiva
 0 is 冷却
-20 is 可以刷新
+19 is 可以刷新
 24 is {hidden}
 
 @Lich
@@ -675,17 +676,17 @@ concise Zurvan
 
 @Sophia
 0 is 冷却
-10 is 可以刷新
+9 is 可以刷新
 24 is {hidden}
 
 @Sephirot
 0 is 冷却
-10 is 可以刷新
+9 is 可以刷新
 24 is {hidden}
 
 @Zurvan
 0 is 冷却
-13 is 可以刷新
+12 is 可以刷新
 24 is {hidden}
 
 @Ravana

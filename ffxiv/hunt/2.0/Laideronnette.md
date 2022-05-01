@@ -2,13 +2,13 @@
 title: 雷德罗巨蛇 - Laideronnette
 description: 2.0 - 黑衣森林中央林区
 published: true
-date: 2022-05-01T22:10:22.000Z
+date: 2022-05-01T22:52:17.000Z
 tags: ffxiv, game
 editor: markdown
 dateCreated: 2022-01-01T00:00:00.000Z
 ---
 
-> 本页面由自动化程序生成于 2022年5月1日 22:10
+> 本页面由自动化程序生成于 2022年5月1日 22:52
 > 内容可能存在错误，如有bug请提交issue至：https://github.com/Eroleice/doc-pi/issues
 {.is-warning}
 
@@ -93,22 +93,6 @@ concise 拂晓之间
 concise 龙巢神殿
 concise 梦羽宝境
 
-@旅人栈桥
-0 is 冷却
-24 is {hidden}
-
-@白银乡
-0 is 冷却
-24 is {hidden}
-
-@潮风亭
-0 is 冷却
-24 is {hidden}
-
-@梦羽宝境
-0 is 冷却
-24 is {hidden}
-
 @龙巢神殿
 0 is 冷却
 24 is {hidden}
@@ -122,6 +106,22 @@ concise 梦羽宝境
 24 is {hidden}
 
 @神拳痕
+0 is 冷却
+24 is {hidden}
+
+@旅人栈桥
+0 is 冷却
+24 is {hidden}
+
+@白银乡
+0 is 冷却
+24 is {hidden}
+
+@潮风亭
+0 is 冷却
+24 is {hidden}
+
+@梦羽宝境
 0 is 冷却
 24 is {hidden}
 
@@ -141,10 +141,6 @@ concise 摩杜纳
 concise 海猫茶屋
 concise 柔风海湾
 concise 琥珀原
-
-@海猫茶屋
-0 is 冷却
-24 is {hidden}
 
 @琥珀原
 0 is 冷却
@@ -170,6 +166,10 @@ concise 琥珀原
 0 is 冷却
 24 is {hidden}
 
+@海猫茶屋
+0 is 冷却
+24 is {hidden}
+
 @enduml
 ```
 
@@ -185,14 +185,6 @@ concise 太阳海岸
 concise 伊修加德
 concise 红茶川
 
-@银泪湖
-0 is 冷却
-24 is {hidden}
-
-@红茶川
-0 is 冷却
-24 is {hidden}
-
 @水晶塔
 0 is 冷却
 24 is {hidden}
@@ -202,6 +194,14 @@ concise 红茶川
 24 is {hidden}
 
 @伊修加德
+0 is 冷却
+24 is {hidden}
+
+@银泪湖
+0 is 冷却
+24 is {hidden}
+
+@红茶川
 0 is 冷却
 24 is {hidden}
 
@@ -225,22 +225,6 @@ concise Tonberry
 concise Typhon
 concise Unicorn
 
-@Typhon
-0 is 冷却
-24 is {hidden}
-
-@Gungnir
-0 is 冷却
-24 is {hidden}
-
-@Carbuncle
-0 is 冷却
-24 is {hidden}
-
-@Ramuh
-0 is 冷却
-24 is {hidden}
-
 @Tonberry
 0 is 冷却
 24 is {hidden}
@@ -258,6 +242,22 @@ concise Unicorn
 24 is {hidden}
 
 @Unicorn
+0 is 冷却
+24 is {hidden}
+
+@Typhon
+0 is 冷却
+24 is {hidden}
+
+@Gungnir
+0 is 冷却
+24 is {hidden}
+
+@Carbuncle
+0 is 冷却
+24 is {hidden}
+
+@Ramuh
 0 is 冷却
 24 is {hidden}
 
@@ -281,6 +281,22 @@ concise Ultima
 concise Valefor
 concise Yojimbo
 concise Zeromus
+
+@Fenrir
+0 is 冷却
+24 is {hidden}
+
+@Ridill
+0 is 冷却
+24 is {hidden}
+
+@Durandal
+0 is 冷却
+24 is {hidden}
+
+@Bahamut
+0 is 冷却
+24 is {hidden}
 
 @Yojimbo
 0 is 冷却
@@ -310,22 +326,6 @@ concise Zeromus
 0 is 冷却
 24 is {hidden}
 
-@Fenrir
-0 is 冷却
-24 is {hidden}
-
-@Ridill
-0 is 冷却
-24 is {hidden}
-
-@Durandal
-0 is 冷却
-24 is {hidden}
-
-@Bahamut
-0 is 冷却
-24 is {hidden}
-
 @enduml
 ```
 
@@ -346,22 +346,6 @@ concise Masamune
 concise Pandaemonium
 concise Shinryu
 concise Titan
-
-@Chocobo
-0 is 冷却
-24 is {hidden}
-
-@Shinryu
-0 is 冷却
-24 is {hidden}
-
-@Ixion
-0 is 冷却
-24 is {hidden}
-
-@Mandragora
-0 is 冷却
-24 is {hidden}
 
 @Anima
 0 is 冷却
@@ -391,6 +375,22 @@ concise Titan
 0 is 冷却
 24 is {hidden}
 
+@Chocobo
+0 is 冷却
+24 is {hidden}
+
+@Shinryu
+0 is 冷却
+24 is {hidden}
+
+@Ixion
+0 is 冷却
+24 is {hidden}
+
+@Mandragora
+0 is 冷却
+24 is {hidden}
+
 @enduml
 ```
 
@@ -408,10 +408,6 @@ concise Jenova
 concise Midgardsormr
 concise Sargatanas
 concise Siren
-
-@Cactuar
-0 is 冷却
-24 is {hidden}
 
 @Gilgamesh
 0 is 冷却
@@ -438,6 +434,10 @@ concise Siren
 24 is {hidden}
 
 @Siren
+0 is 冷却
+24 is {hidden}
+
+@Cactuar
 0 is 冷却
 24 is {hidden}
 
@@ -509,10 +509,6 @@ concise Malboro
 concise Mateus
 concise Zalera
 
-@Brynhildr
-0 is 冷却
-24 is {hidden}
-
 @Goblin
 0 is 冷却
 24 is {hidden}
@@ -538,6 +534,10 @@ concise Zalera
 24 is {hidden}
 
 @Malboro
+0 is 冷却
+24 is {hidden}
+
+@Brynhildr
 0 is 冷却
 24 is {hidden}
 
@@ -636,6 +636,10 @@ concise Sephirot
 concise Sophia
 concise Zurvan
 
+@Ravana
+0 is 冷却
+24 is {hidden}
+
 @Sephirot
 0 is 冷却
 24 is {hidden}
@@ -649,10 +653,6 @@ concise Zurvan
 24 is {hidden}
 
 @Sophia
-0 is 冷却
-24 is {hidden}
-
-@Ravana
 0 is 冷却
 24 is {hidden}
 

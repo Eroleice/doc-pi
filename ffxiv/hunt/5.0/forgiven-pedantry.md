@@ -2,13 +2,13 @@
 title: 得到宽恕的炫学 - forgiven pedantry
 description: 5.0 - 珂露西亚岛
 published: true
-date: 2022-05-01T22:10:22.000Z
+date: 2022-05-01T22:52:17.000Z
 tags: ffxiv, game
 editor: markdown
 dateCreated: 2022-01-01T00:00:00.000Z
 ---
 
-> 本页面由自动化程序生成于 2022年5月1日 22:10
+> 本页面由自动化程序生成于 2022年5月1日 22:52
 > 内容可能存在错误，如有bug请提交issue至：https://github.com/Eroleice/doc-pi/issues
 {.is-warning}
 
@@ -227,7 +227,7 @@ concise Unicorn
 
 @Garuda
 0 is 冷却
-9 is 可以刷新
+8 is 可以刷新
 24 is {hidden}
 
 @Aegis
@@ -237,7 +237,7 @@ concise Unicorn
 
 @Gungnir
 0 is 冷却
-20 is 可以刷新
+19 is 可以刷新
 24 is {hidden}
 
 @Atomos
@@ -252,6 +252,7 @@ concise Unicorn
 
 @Kujata
 0 is 冷却
+23 is 可以刷新
 24 is {hidden}
 
 @Tonberry
@@ -303,27 +304,27 @@ concise Zeromus
 
 @Ultima
 0 is 冷却
-12 is 可以刷新
+11 is 可以刷新
 24 is {hidden}
 
 @Ifrit
 0 is 冷却
-12 is 可以刷新
+11 is 可以刷新
 24 is {hidden}
 
 @Fenrir
 0 is 冷却
-13 is 可以刷新
+12 is 可以刷新
 24 is {hidden}
 
 @Bahamut
 0 is 冷却
-13 is 可以刷新
+12 is 可以刷新
 24 is {hidden}
 
 @Tiamat
 0 is 冷却
-14 is 可以刷新
+13 is 可以刷新
 24 is {hidden}
 
 @Valefor
@@ -371,22 +372,22 @@ concise Titan
 
 @Asura
 0 is 冷却
-13 is 可以刷新
+12 is 可以刷新
 24 is {hidden}
 
 @Mandragora
 0 is 冷却
-14 is 可以刷新
+13 is 可以刷新
 24 is {hidden}
 
 @Pandaemonium
 0 is 冷却
-20 is 可以刷新
+19 is 可以刷新
 24 is {hidden}
 
 @Titan
 0 is 冷却
-23 is 可以刷新
+22 is 可以刷新
 24 is {hidden}
 
 @Anima
@@ -433,17 +434,17 @@ concise Siren
 
 @Midgardsormr
 0 is 冷却
-11 is 可以刷新
+10 is 可以刷新
 24 is {hidden}
 
 @Cactuar
 0 is 冷却
-17 is 可以刷新
+16 is 可以刷新
 24 is {hidden}
 
 @Jenova
 0 is 冷却
-21 is 可以刷新
+20 is 可以刷新
 24 is {hidden}
 
 @Adamantoise
@@ -486,17 +487,17 @@ concise Ultros
 
 @Behemoth
 0 is 冷却
-10 is 可以刷新
+9 is 可以刷新
 24 is {hidden}
 
 @Lamia
 0 is 冷却
-14 is 可以刷新
+13 is 可以刷新
 24 is {hidden}
 
 @Hyperion
 0 is 冷却
-18 is 可以刷新
+17 is 可以刷新
 24 is {hidden}
 
 @Exodus
@@ -545,7 +546,7 @@ concise Zalera
 
 @Coeurl
 0 is 冷却
-15 is 可以刷新
+14 is 可以刷新
 24 is {hidden}
 
 @Zalera
@@ -555,7 +556,7 @@ concise Zalera
 
 @Balmung
 0 is 冷却
-19 is 可以刷新
+18 is 可以刷新
 24 is {hidden}
 
 @Malboro
@@ -592,12 +593,12 @@ concise Spriggan
 
 @Omega
 0 is 冷却
-12 is 可以刷新
+11 is 可以刷新
 24 is {hidden}
 
 @Cerberus
 0 is 冷却
-23 is 可以刷新
+22 is 可以刷新
 24 is {hidden}
 
 @Ragnarok
@@ -635,17 +636,17 @@ concise Zodiark
 
 @Odin
 0 is 冷却
-13 is 可以刷新
+12 is 可以刷新
 24 is {hidden}
 
 @Shiva
 0 is 冷却
-20 is 可以刷新
+19 is 可以刷新
 24 is {hidden}
 
 @Lich
 0 is 冷却
-21 is 可以刷新
+20 is 可以刷新
 24 is {hidden}
 
 @Twintania
@@ -678,7 +679,7 @@ concise Zurvan
 
 @Sephirot
 0 is 冷却
-10 is 可以刷新
+9 is 可以刷新
 24 is {hidden}
 
 @Sophia
@@ -688,12 +689,12 @@ concise Zurvan
 
 @Zurvan
 0 is 冷却
-11 is 可以刷新
+10 is 可以刷新
 24 is {hidden}
 
 @Bismarck
 0 is 冷却
-22 is 可以刷新
+21 is 可以刷新
 24 is {hidden}
 
 @Ravana

@@ -2,13 +2,13 @@
 title: 伽马 - Gamma
 description: 4.0 - 延夏
 published: true
-date: 2022-05-01T22:10:22.000Z
+date: 2022-05-01T22:52:17.000Z
 tags: ffxiv, game
 editor: markdown
 dateCreated: 2022-01-01T00:00:00.000Z
 ---
 
-> 本页面由自动化程序生成于 2022年5月1日 22:10
+> 本页面由自动化程序生成于 2022年5月1日 22:52
 > 内容可能存在错误，如有bug请提交issue至：https://github.com/Eroleice/doc-pi/issues
 {.is-warning}
 
@@ -232,17 +232,17 @@ concise Unicorn
 
 @Aegis
 0 is 冷却
-11 is 可以刷新
+10 is 可以刷新
 24 is {hidden}
 
 @Carbuncle
 0 is 冷却
-16 is 可以刷新
+15 is 可以刷新
 24 is {hidden}
 
 @Tonberry
 0 is 冷却
-18 is 可以刷新
+17 is 可以刷新
 24 is {hidden}
 
 @Typhon
@@ -252,7 +252,7 @@ concise Unicorn
 
 @Gungnir
 0 is 冷却
-20 is 可以刷新
+19 is 可以刷新
 24 is {hidden}
 
 @Garuda
@@ -290,7 +290,7 @@ concise Zeromus
 
 @Alexander
 0 is 可以刷新
-4 is 强制刷新
+3 is 强制刷新
 24 is {hidden}
 
 @Ultima
@@ -300,7 +300,7 @@ concise Zeromus
 
 @Fenrir
 0 is 冷却
-22 is 可以刷新
+21 is 可以刷新
 24 is {hidden}
 
 @Valefor
@@ -364,22 +364,22 @@ concise Titan
 
 @Anima
 0 is 冷却
-8 is 可以刷新
+7 is 可以刷新
 24 is {hidden}
 
 @Asura
 0 is 冷却
-10 is 可以刷新
+9 is 可以刷新
 24 is {hidden}
 
 @Chocobo
 0 is 冷却
-14 is 可以刷新
+13 is 可以刷新
 24 is {hidden}
 
 @Belias
 0 is 冷却
-21 is 可以刷新
+20 is 可以刷新
 24 is {hidden}
 
 @Titan
@@ -427,25 +427,27 @@ concise Siren
 
 @Adamantoise
 0 is 冷却
-14 is 可以刷新
+13 is 可以刷新
 24 is {hidden}
 
 @Midgardsormr
 0 is 冷却
-19 is 可以刷新
+18 is 可以刷新
 24 is {hidden}
 
 @Sargatanas
 0 is 冷却
-20 is 可以刷新
+19 is 可以刷新
 24 is {hidden}
 
 @Faerie
 0 is 冷却
+23 is 可以刷新
 24 is {hidden}
 
 @Cactuar
 0 is 冷却
+23 is 可以刷新
 24 is {hidden}
 
 @Jenova
@@ -486,22 +488,22 @@ concise Ultros
 
 @Exodus
 0 is 冷却
-16 is 可以刷新
+15 is 可以刷新
 24 is {hidden}
 
 @Famfrit
 0 is 冷却
-18 is 可以刷新
+17 is 可以刷新
 24 is {hidden}
 
 @Hyperion
 0 is 冷却
-20 is 可以刷新
+19 is 可以刷新
 24 is {hidden}
 
 @Excalibur
 0 is 冷却
-21 is 可以刷新
+20 is 可以刷新
 24 is {hidden}
 
 @Leviathan
@@ -532,12 +534,12 @@ concise Zalera
 
 @Coeurl
 0 is 冷却
-10 is 可以刷新
+9 is 可以刷新
 24 is {hidden}
 
 @Zalera
 0 is 冷却
-16 is 可以刷新
+15 is 可以刷新
 24 is {hidden}
 
 @Diabolos
@@ -547,12 +549,12 @@ concise Zalera
 
 @Balmung
 0 is 冷却
-23 is 可以刷新
+22 is 可以刷新
 24 is {hidden}
 
 @Brynhildr
 0 is 冷却
-23 is 可以刷新
+22 is 可以刷新
 24 is {hidden}
 
 @Malboro
@@ -590,17 +592,17 @@ concise Spriggan
 
 @Cerberus
 0 is 冷却
-22 is 可以刷新
+21 is 可以刷新
 24 is {hidden}
 
 @Louisoix
 0 is 冷却
-22 is 可以刷新
+21 is 可以刷新
 24 is {hidden}
 
 @Ragnarok
 0 is 冷却
-22 is 可以刷新
+21 is 可以刷新
 24 is {hidden}
 
 @Spriggan
@@ -629,17 +631,17 @@ concise Zodiark
 
 @Twintania
 0 is 冷却
-10 is 可以刷新
+9 is 可以刷新
 24 is {hidden}
 
 @Shiva
 0 is 冷却
-19 is 可以刷新
+18 is 可以刷新
 24 is {hidden}
 
 @Zodiark
 0 is 冷却
-22 is 可以刷新
+21 is 可以刷新
 24 is {hidden}
 
 @Lich
@@ -671,7 +673,7 @@ concise Zurvan
 
 @Bismarck
 0 is 冷却
-14 is 可以刷新
+13 is 可以刷新
 24 is {hidden}
 
 @Sephirot
@@ -681,7 +683,7 @@ concise Zurvan
 
 @Sophia
 0 is 冷却
-21 is 可以刷新
+20 is 可以刷新
 24 is {hidden}
 
 @Ravana
