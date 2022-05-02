@@ -2,13 +2,13 @@
 title: 萨法特 - Safat
 description: 2.0 - 库尔札斯中央高地
 published: true
-date: 2022-05-01T23:10:40.000Z
+date: 2022-05-02T10:13:12.000Z
 tags: ffxiv, game
 editor: markdown
 dateCreated: 2022-01-01T00:00:00.000Z
 ---
 
-> 本页面由自动化程序生成于 2022年5月1日 23:10
+> 本页面由自动化程序生成于 2022年5月2日 10:13
 > 内容可能存在错误，如有bug请提交issue至：https://github.com/Eroleice/doc-pi/issues
 {.is-warning}
 
@@ -45,42 +45,42 @@ concise 晨曦王座
 
 @宇宙和音
 0 is 冷却
-12 is 可以刷新
+1 is 可以刷新
 24 is {hidden}
 
 @拉诺西亚
 0 is 冷却
-13 is 可以刷新
+2 is 可以刷新
 24 is {hidden}
 
 @晨曦王座
 0 is 冷却
-23 is 可以刷新
+12 is 可以刷新
 24 is {hidden}
 
 @红玉海
 0 is 冷却
-14 is 可以刷新
+3 is 可以刷新
 24 is {hidden}
 
 @神意之地
 0 is 冷却
-15 is 可以刷新
+4 is 可以刷新
 24 is {hidden}
 
 @幻影群岛
 0 is 冷却
-15 is 可以刷新
+4 is 可以刷新
 24 is {hidden}
 
 @萌芽池
 0 is 冷却
-17 is 可以刷新
+6 is 可以刷新
 24 is {hidden}
 
 @沃仙曦染
 0 is 冷却
-21 is 可以刷新
+10 is 可以刷新
 24 is {hidden}
 
 @enduml
@@ -103,42 +103,42 @@ concise 梦羽宝境
 
 @白金幻象
 0 is 冷却
-12 is 可以刷新
+1 is 可以刷新
 24 is {hidden}
 
 @神拳痕
 0 is 冷却
-23 is 可以刷新
+12 is 可以刷新
 24 is {hidden}
 
 @潮风亭
 0 is 冷却
-23 is 可以刷新
+12 is 可以刷新
 24 is {hidden}
 
 @龙巢神殿
 0 is 冷却
-23 is 可以刷新
+12 is 可以刷新
 24 is {hidden}
 
 @梦羽宝境
 0 is 冷却
-23 is 可以刷新
+12 is 可以刷新
 24 is {hidden}
 
 @白银乡
 0 is 冷却
-23 is 可以刷新
+12 is 可以刷新
 24 is {hidden}
 
 @拂晓之间
 0 is 冷却
-23 is 可以刷新
+12 is 可以刷新
 24 is {hidden}
 
 @旅人栈桥
 0 is 冷却
-22 is 可以刷新
+11 is 可以刷新
 24 is {hidden}
 
 @enduml
@@ -160,35 +160,37 @@ concise 琥珀原
 
 @紫水栈桥
 0 is 冷却
-12 is 可以刷新
+1 is 可以刷新
 24 is {hidden}
 
 @海猫茶屋
 0 is 冷却
-12 is 可以刷新
+1 is 可以刷新
 24 is {hidden}
 
 @静语庄园
 0 is 冷却
-16 is 可以刷新
+5 is 可以刷新
 24 is {hidden}
 
 @摩杜纳
 0 is 冷却
-20 is 可以刷新
+9 is 可以刷新
 24 is {hidden}
 
 @柔风海湾
 0 is 冷却
-20 is 可以刷新
+9 is 可以刷新
 24 is {hidden}
 
 @琥珀原
 0 is 冷却
+13 is 可以刷新
 24 is {hidden}
 
 @延夏
 0 is 冷却
+13 is 可以刷新
 24 is {hidden}
 
 @enduml
@@ -208,27 +210,27 @@ concise 红茶川
 
 @太阳海岸
 0 is 冷却
-23 is 可以刷新
+12 is 可以刷新
 24 is {hidden}
 
 @银泪湖
 0 is 冷却
-23 is 可以刷新
+12 is 可以刷新
 24 is {hidden}
 
 @红茶川
 0 is 冷却
-23 is 可以刷新
+12 is 可以刷新
 24 is {hidden}
 
 @水晶塔
 0 is 冷却
-23 is 可以刷新
+12 is 可以刷新
 24 is {hidden}
 
 @伊修加德
 0 is 冷却
-18 is 可以刷新
+7 is 可以刷新
 24 is {hidden}
 
 @enduml
@@ -250,11 +252,6 @@ concise Ramuh
 concise Tonberry
 concise Typhon
 concise Unicorn
-
-@Aegis
-0 is 可以刷新
-2 is 强制刷新
-24 is {hidden}
 
 @Ramuh
 0 is 冷却
@@ -281,6 +278,10 @@ concise Unicorn
 24 is {hidden}
 
 @Carbuncle
+0 is 冷却
+24 is {hidden}
+
+@Aegis
 0 is 冷却
 24 is {hidden}
 
@@ -312,11 +313,6 @@ concise Ultima
 concise Valefor
 concise Yojimbo
 concise Zeromus
-
-@Zeromus
-0 is 可以刷新
-6 is 强制刷新
-24 is {hidden}
 
 @Valefor
 0 is 冷却
@@ -354,6 +350,10 @@ concise Zeromus
 0 is 冷却
 24 is {hidden}
 
+@Zeromus
+0 is 冷却
+24 is {hidden}
+
 @Durandal
 0 is 冷却
 24 is {hidden}
@@ -378,11 +378,6 @@ concise Masamune
 concise Pandaemonium
 concise Shinryu
 concise Titan
-
-@Hades
-0 is 可以刷新
-3 is 强制刷新
-24 is {hidden}
 
 @Chocobo
 0 is 冷却
@@ -424,6 +419,10 @@ concise Titan
 0 is 冷却
 24 is {hidden}
 
+@Hades
+0 is 冷却
+24 is {hidden}
+
 @enduml
 ```
 
@@ -442,13 +441,9 @@ concise Midgardsormr
 concise Sargatanas
 concise Siren
 
-@Siren
-0 is 可以刷新
-6 is 强制刷新
-24 is {hidden}
-
 @Sargatanas
 0 is 冷却
+23 is 可以刷新
 24 is {hidden}
 
 @Gilgamesh
@@ -475,6 +470,10 @@ concise Siren
 0 is 冷却
 24 is {hidden}
 
+@Siren
+0 is 冷却
+24 is {hidden}
+
 @enduml
 ```
 
@@ -492,11 +491,6 @@ concise Hyperion
 concise Lamia
 concise Leviathan
 concise Ultros
-
-@Hyperion
-0 is 可以刷新
-6 is 强制刷新
-24 is {hidden}
 
 @Behemoth
 0 is 冷却
@@ -526,6 +520,10 @@ concise Ultros
 0 is 冷却
 24 is {hidden}
 
+@Hyperion
+0 is 冷却
+24 is {hidden}
+
 @enduml
 ```
 
@@ -544,23 +542,9 @@ concise Malboro
 concise Mateus
 concise Zalera
 
-@Zalera
-0 is 可以刷新
-3 is 强制刷新
-24 is {hidden}
-
-@Coeurl
-0 is 可以刷新
-6 is 强制刷新
-24 is {hidden}
-
-@Diabolos
-0 is 可以刷新
-9 is 强制刷新
-24 is {hidden}
-
 @Mateus
 0 is 冷却
+23 is 可以刷新
 24 is {hidden}
 
 @Balmung
@@ -575,7 +559,19 @@ concise Zalera
 0 is 冷却
 24 is {hidden}
 
+@Zalera
+0 is 冷却
+24 is {hidden}
+
 @Malboro
+0 is 冷却
+24 is {hidden}
+
+@Diabolos
+0 is 冷却
+24 is {hidden}
+
+@Coeurl
 0 is 冷却
 24 is {hidden}
 
@@ -635,16 +631,6 @@ concise Shiva
 concise Twintania
 concise Zodiark
 
-@Shiva
-0 is 可以刷新
-5 is 强制刷新
-24 is {hidden}
-
-@Lich
-0 is 可以刷新
-6 is 强制刷新
-24 is {hidden}
-
 @Zodiark
 0 is 冷却
 24 is {hidden}
@@ -658,6 +644,14 @@ concise Zodiark
 24 is {hidden}
 
 @Twintania
+0 is 冷却
+24 is {hidden}
+
+@Shiva
+0 is 冷却
+24 is {hidden}
+
+@Lich
 0 is 冷却
 24 is {hidden}
 
@@ -676,11 +670,6 @@ concise Sephirot
 concise Sophia
 concise Zurvan
 
-@Ravana
-0 is 可以刷新
-6 is 强制刷新
-24 is {hidden}
-
 @Zurvan
 0 is 冷却
 24 is {hidden}
@@ -690,6 +679,10 @@ concise Zurvan
 24 is {hidden}
 
 @Sephirot
+0 is 冷却
+24 is {hidden}
+
+@Ravana
 0 is 冷却
 24 is {hidden}
 

@@ -2,13 +2,13 @@
 title: 卢克洛塔 - Leucrotta
 description: 3.0 - 魔大陆阿济兹拉
 published: true
-date: 2022-05-01T23:10:40.000Z
+date: 2022-05-02T10:13:12.000Z
 tags: ffxiv, game
 editor: markdown
 dateCreated: 2022-01-01T00:00:00.000Z
 ---
 
-> 本页面由自动化程序生成于 2022年5月1日 23:10
+> 本页面由自动化程序生成于 2022年5月2日 10:13
 > 内容可能存在错误，如有bug请提交issue至：https://github.com/Eroleice/doc-pi/issues
 {.is-warning}
 
@@ -142,10 +142,6 @@ concise 琥珀原
 0 is 冷却
 24 is {hidden}
 
-@紫水栈桥
-0 is 冷却
-24 is {hidden}
-
 @琥珀原
 0 is 冷却
 24 is {hidden}
@@ -163,6 +159,10 @@ concise 琥珀原
 24 is {hidden}
 
 @柔风海湾
+0 is 冷却
+24 is {hidden}
+
+@紫水栈桥
 0 is 冷却
 24 is {hidden}
 
@@ -223,15 +223,17 @@ concise Unicorn
 
 @Kujata
 0 is 冷却
-17 is 可以刷新
+6 is 可以刷新
 24 is {hidden}
 
 @Aegis
 0 is 冷却
+17 is 可以刷新
 24 is {hidden}
 
 @Typhon
 0 is 冷却
+21 is 可以刷新
 24 is {hidden}
 
 @Unicorn
@@ -281,24 +283,27 @@ concise Zeromus
 
 @Tiamat
 0 is 可以刷新
-11 is 强制刷新
+0 is 强制刷新
 24 is {hidden}
 
 @Bahamut
 0 is 冷却
-21 is 可以刷新
+10 is 可以刷新
 24 is {hidden}
 
 @Durandal
 0 is 冷却
+16 is 可以刷新
 24 is {hidden}
 
 @Ultima
 0 is 冷却
+18 is 可以刷新
 24 is {hidden}
 
 @Ridill
 0 is 冷却
+23 is 可以刷新
 24 is {hidden}
 
 @Valefor
@@ -340,19 +345,22 @@ concise Titan
 
 @Belias
 0 is 可以刷新
-20 is 强制刷新
+9 is 强制刷新
 24 is {hidden}
 
 @Ixion
 0 is 可以刷新
+20 is 强制刷新
 24 is {hidden}
 
 @Mandragora
 0 is 冷却
+17 is 可以刷新
 24 is {hidden}
 
 @Shinryu
 0 is 冷却
+21 is 可以刷新
 24 is {hidden}
 
 @Pandaemonium
@@ -399,19 +407,22 @@ concise Siren
 
 @Faerie
 0 is 冷却
-23 is 可以刷新
+12 is 可以刷新
 24 is {hidden}
 
 @Adamantoise
 0 is 冷却
+14 is 可以刷新
 24 is {hidden}
 
 @Midgardsormr
 0 is 冷却
+21 is 可以刷新
 24 is {hidden}
 
 @Sargatanas
 0 is 冷却
+23 is 可以刷新
 24 is {hidden}
 
 @Gilgamesh
@@ -450,14 +461,17 @@ concise Ultros
 
 @Ultros
 0 is 冷却
+13 is 可以刷新
 24 is {hidden}
 
 @Excalibur
 0 is 冷却
+20 is 可以刷新
 24 is {hidden}
 
 @Behemoth
 0 is 冷却
+20 is 可以刷新
 24 is {hidden}
 
 @Exodus
@@ -500,7 +514,7 @@ concise Zalera
 
 @Coeurl
 0 is 冷却
-20 is 可以刷新
+9 is 可以刷新
 24 is {hidden}
 
 @Zalera
@@ -628,10 +642,12 @@ concise Zurvan
 
 @Sephirot
 0 is 冷却
+19 is 可以刷新
 24 is {hidden}
 
 @Zurvan
 0 is 冷却
+19 is 可以刷新
 24 is {hidden}
 
 @Sophia

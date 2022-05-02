@@ -2,13 +2,13 @@
 title: 优昙婆罗花 - Udumbara
 description: 4.0 - 基拉巴尼亚边区
 published: true
-date: 2022-05-01T23:10:40.000Z
+date: 2022-05-02T10:13:12.000Z
 tags: ffxiv, game
 editor: markdown
 dateCreated: 2022-01-01T00:00:00.000Z
 ---
 
-> 本页面由自动化程序生成于 2022年5月1日 23:10
+> 本页面由自动化程序生成于 2022年5月2日 10:13
 > 内容可能存在错误，如有bug请提交issue至：https://github.com/Eroleice/doc-pi/issues
 {.is-warning}
 
@@ -93,23 +93,7 @@ concise 拂晓之间
 concise 龙巢神殿
 concise 梦羽宝境
 
-@白银乡
-0 is 冷却
-24 is {hidden}
-
-@潮风亭
-0 is 冷却
-24 is {hidden}
-
 @白金幻象
-0 is 冷却
-24 is {hidden}
-
-@拂晓之间
-0 is 冷却
-24 is {hidden}
-
-@旅人栈桥
 0 is 冷却
 24 is {hidden}
 
@@ -122,6 +106,22 @@ concise 梦羽宝境
 24 is {hidden}
 
 @梦羽宝境
+0 is 冷却
+24 is {hidden}
+
+@潮风亭
+0 is 冷却
+24 is {hidden}
+
+@旅人栈桥
+0 is 冷却
+24 is {hidden}
+
+@拂晓之间
+0 is 冷却
+24 is {hidden}
+
+@白银乡
 0 is 冷却
 24 is {hidden}
 
@@ -146,10 +146,6 @@ concise 琥珀原
 0 is 冷却
 24 is {hidden}
 
-@紫水栈桥
-0 is 冷却
-24 is {hidden}
-
 @海猫茶屋
 0 is 冷却
 24 is {hidden}
@@ -167,6 +163,10 @@ concise 琥珀原
 24 is {hidden}
 
 @柔风海湾
+0 is 冷却
+24 is {hidden}
+
+@紫水栈桥
 0 is 冷却
 24 is {hidden}
 
@@ -225,36 +225,34 @@ concise Tonberry
 concise Typhon
 concise Unicorn
 
-@Atomos
-0 is 可以刷新
-7 is 强制刷新
-24 is {hidden}
-
 @Tonberry
 0 is 冷却
-16 is 可以刷新
+5 is 可以刷新
 24 is {hidden}
 
 @Unicorn
 0 is 冷却
-20 is 可以刷新
+9 is 可以刷新
 24 is {hidden}
 
 @Kujata
 0 is 冷却
-22 is 可以刷新
+11 is 可以刷新
 24 is {hidden}
 
 @Carbuncle
 0 is 冷却
+16 is 可以刷新
 24 is {hidden}
 
 @Aegis
 0 is 冷却
+16 is 可以刷新
 24 is {hidden}
 
 @Gungnir
 0 is 冷却
+22 is 可以刷新
 24 is {hidden}
 
 @Garuda
@@ -266,6 +264,10 @@ concise Unicorn
 24 is {hidden}
 
 @Ramuh
+0 is 冷却
+24 is {hidden}
+
+@Atomos
 0 is 冷却
 24 is {hidden}
 
@@ -290,41 +292,39 @@ concise Valefor
 concise Yojimbo
 concise Zeromus
 
-@Tiamat
-0 is 可以刷新
-2 is 强制刷新
-24 is {hidden}
-
 @Fenrir
 0 is 冷却
-13 is 可以刷新
+2 is 可以刷新
 24 is {hidden}
 
 @Zeromus
 0 is 冷却
-21 is 可以刷新
+10 is 可以刷新
 24 is {hidden}
 
 @Bahamut
 0 is 冷却
-22 is 可以刷新
+11 is 可以刷新
 24 is {hidden}
 
 @Ridill
 0 is 冷却
-23 is 可以刷新
+12 is 可以刷新
 24 is {hidden}
 
 @Ifrit
 0 is 冷却
+14 is 可以刷新
 24 is {hidden}
 
 @Alexander
 0 is 冷却
+18 is 可以刷新
 24 is {hidden}
 
 @Ultima
 0 is 冷却
+23 is 可以刷新
 24 is {hidden}
 
 @Valefor
@@ -332,6 +332,10 @@ concise Zeromus
 24 is {hidden}
 
 @Durandal
+0 is 冷却
+24 is {hidden}
+
+@Tiamat
 0 is 冷却
 24 is {hidden}
 
@@ -356,51 +360,57 @@ concise Pandaemonium
 concise Shinryu
 concise Titan
 
-@Pandaemonium
-0 is 可以刷新
-10 is 强制刷新
-24 is {hidden}
-
 @Hades
 0 is 可以刷新
-18 is 强制刷新
+7 is 强制刷新
 24 is {hidden}
 
 @Ixion
 0 is 可以刷新
+15 is 强制刷新
 24 is {hidden}
 
 @Mandragora
 0 is 冷却
-20 is 可以刷新
+9 is 可以刷新
 24 is {hidden}
 
 @Chocobo
 0 is 冷却
-20 is 可以刷新
+9 is 可以刷新
 24 is {hidden}
 
 @Titan
 0 is 冷却
+14 is 可以刷新
 24 is {hidden}
 
 @Shinryu
 0 is 冷却
+14 is 可以刷新
 24 is {hidden}
 
 @Anima
 0 is 冷却
+16 is 可以刷新
 24 is {hidden}
 
 @Belias
 0 is 冷却
+17 is 可以刷新
 24 is {hidden}
 
 @Asura
 0 is 冷却
+23 is 可以刷新
 24 is {hidden}
 
 @Masamune
+0 is 冷却
+23 is 可以刷新
+24 is {hidden}
+
+@Pandaemonium
 0 is 冷却
 24 is {hidden}
 
@@ -424,19 +434,22 @@ concise Siren
 
 @Sargatanas
 0 is 冷却
-23 is 可以刷新
+12 is 可以刷新
 24 is {hidden}
 
 @Midgardsormr
 0 is 冷却
+17 is 可以刷新
 24 is {hidden}
 
 @Adamantoise
 0 is 冷却
+18 is 可以刷新
 24 is {hidden}
 
 @Gilgamesh
 0 is 冷却
+22 is 可以刷新
 24 is {hidden}
 
 @Siren
@@ -475,10 +488,12 @@ concise Ultros
 
 @Exodus
 0 is 可以刷新
+15 is 强制刷新
 24 is {hidden}
 
 @Excalibur
 0 is 冷却
+13 is 可以刷新
 24 is {hidden}
 
 @Ultros
@@ -529,11 +544,12 @@ concise Zalera
 
 @Zalera
 0 is 冷却
-23 is 可以刷新
+12 is 可以刷新
 24 is {hidden}
 
 @Coeurl
 0 is 冷却
+22 is 可以刷新
 24 is {hidden}
 
 @Balmung
@@ -574,10 +590,12 @@ concise Spriggan
 
 @Omega
 0 is 冷却
+20 is 可以刷新
 24 is {hidden}
 
 @Cerberus
 0 is 冷却
+22 is 可以刷新
 24 is {hidden}
 
 @Ragnarok
@@ -614,6 +632,7 @@ concise Zodiark
 
 @Twintania
 0 is 冷却
+23 is 可以刷新
 24 is {hidden}
 
 @Zodiark
@@ -653,6 +672,7 @@ concise Zurvan
 
 @Sephirot
 0 is 冷却
+13 is 可以刷新
 24 is {hidden}
 
 @Bismarck

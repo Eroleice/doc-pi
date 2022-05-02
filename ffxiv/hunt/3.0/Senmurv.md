@@ -2,13 +2,13 @@
 title: 神穆尔鸟 - Senmurv
 description: 3.0 - 龙堡参天高地
 published: true
-date: 2022-05-01T23:10:40.000Z
+date: 2022-05-02T10:13:12.000Z
 tags: ffxiv, game
 editor: markdown
 dateCreated: 2022-01-01T00:00:00.000Z
 ---
 
-> 本页面由自动化程序生成于 2022年5月1日 23:10
+> 本页面由自动化程序生成于 2022年5月2日 10:13
 > 内容可能存在错误，如有bug请提交issue至：https://github.com/Eroleice/doc-pi/issues
 {.is-warning}
 
@@ -47,14 +47,6 @@ concise 晨曦王座
 0 is 冷却
 24 is {hidden}
 
-@宇宙和音
-0 is 冷却
-24 is {hidden}
-
-@萌芽池
-0 is 冷却
-24 is {hidden}
-
 @幻影群岛
 0 is 冷却
 24 is {hidden}
@@ -72,6 +64,14 @@ concise 晨曦王座
 24 is {hidden}
 
 @拉诺西亚
+0 is 冷却
+24 is {hidden}
+
+@萌芽池
+0 is 冷却
+24 is {hidden}
+
+@宇宙和音
 0 is 冷却
 24 is {hidden}
 
@@ -193,15 +193,15 @@ concise 红茶川
 0 is 冷却
 24 is {hidden}
 
-@银泪湖
-0 is 冷却
-24 is {hidden}
-
 @伊修加德
 0 is 冷却
 24 is {hidden}
 
 @红茶川
+0 is 冷却
+24 is {hidden}
+
+@银泪湖
 0 is 冷却
 24 is {hidden}
 
@@ -227,11 +227,12 @@ concise Unicorn
 
 @Atomos
 0 is 可以刷新
-19 is 强制刷新
+8 is 强制刷新
 24 is {hidden}
 
 @Garuda
 0 is 冷却
+17 is 可以刷新
 24 is {hidden}
 
 @Aegis
@@ -285,7 +286,7 @@ concise Zeromus
 
 @Bahamut
 0 is 可以刷新
-17 is 强制刷新
+6 is 强制刷新
 24 is {hidden}
 
 @Zeromus
@@ -294,18 +295,22 @@ concise Zeromus
 
 @Durandal
 0 is 冷却
+20 is 可以刷新
 24 is {hidden}
 
 @Valefor
 0 is 冷却
+20 is 可以刷新
 24 is {hidden}
 
 @Alexander
 0 is 冷却
+21 is 可以刷新
 24 is {hidden}
 
 @Fenrir
 0 is 冷却
+22 is 可以刷新
 24 is {hidden}
 
 @Ifrit
@@ -346,26 +351,25 @@ concise Titan
 24 is {hidden}
 
 @Mandragora
-0 is 冷却
-2 is 可以刷新
+0 is 可以刷新
 24 is {hidden}
 
 @Ixion
-0 is 冷却
-2 is 可以刷新
+0 is 可以刷新
 24 is {hidden}
 
 @Belias
-0 is 冷却
-5 is 可以刷新
+0 is 可以刷新
 24 is {hidden}
 
 @Titan
 0 is 冷却
+20 is 可以刷新
 24 is {hidden}
 
 @Chocobo
 0 is 冷却
+22 is 可以刷新
 24 is {hidden}
 
 @Shinryu
@@ -406,18 +410,13 @@ concise Midgardsormr
 concise Sargatanas
 concise Siren
 
-@Jenova
-0 is 冷却
-1 is 可以刷新
-24 is {hidden}
-
 @Siren
-0 is 冷却
-3 is 可以刷新
+0 is 可以刷新
 24 is {hidden}
 
 @Faerie
 0 is 冷却
+17 is 可以刷新
 24 is {hidden}
 
 @Gilgamesh
@@ -437,6 +436,10 @@ concise Siren
 24 is {hidden}
 
 @Adamantoise
+0 is 冷却
+24 is {hidden}
+
+@Jenova
 0 is 冷却
 24 is {hidden}
 
@@ -460,6 +463,7 @@ concise Ultros
 
 @Famfrit
 0 is 可以刷新
+14 is 强制刷新
 24 is {hidden}
 
 @Exodus
@@ -468,11 +472,12 @@ concise Ultros
 
 @Leviathan
 0 is 冷却
-16 is 可以刷新
+4 is 可以刷新
 24 is {hidden}
 
 @Hyperion
 0 is 冷却
+23 is 可以刷新
 24 is {hidden}
 
 @Ultros
@@ -509,21 +514,18 @@ concise Malboro
 concise Mateus
 concise Zalera
 
-@Goblin
-0 is 可以刷新
-24 is {hidden}
-
 @Diabolos
 0 is 可以刷新
 24 is {hidden}
 
 @Balmung
 0 is 冷却
-14 is 可以刷新
+3 is 可以刷新
 24 is {hidden}
 
 @Malboro
 0 is 冷却
+14 is 可以刷新
 24 is {hidden}
 
 @Coeurl
@@ -535,6 +537,10 @@ concise Zalera
 24 is {hidden}
 
 @Brynhildr
+0 is 冷却
+24 is {hidden}
+
+@Goblin
 0 is 冷却
 24 is {hidden}
 
@@ -596,6 +602,7 @@ concise Zodiark
 
 @Twintania
 0 is 可以刷新
+22 is 强制刷新
 24 is {hidden}
 
 @Phoenix
@@ -635,7 +642,7 @@ concise Zurvan
 
 @Sephirot
 0 is 冷却
-20 is 可以刷新
+9 is 可以刷新
 24 is {hidden}
 
 @Ravana

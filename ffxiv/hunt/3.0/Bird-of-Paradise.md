@@ -2,13 +2,13 @@
 title: 极乐鸟 - Bird of Paradise
 description: 3.0 - 阿巴拉提亚云海
 published: true
-date: 2022-05-01T23:10:40.000Z
+date: 2022-05-02T10:13:12.000Z
 tags: ffxiv, game
 editor: markdown
 dateCreated: 2022-01-01T00:00:00.000Z
 ---
 
-> 本页面由自动化程序生成于 2022年5月1日 23:10
+> 本页面由自动化程序生成于 2022年5月2日 10:13
 > 内容可能存在错误，如有bug请提交issue至：https://github.com/Eroleice/doc-pi/issues
 {.is-warning}
 
@@ -227,42 +227,46 @@ concise Unicorn
 
 @Aegis
 0 is 可以刷新
-12 is 强制刷新
+1 is 强制刷新
 24 is {hidden}
 
 @Ramuh
-0 is 冷却
-7 is 可以刷新
+0 is 可以刷新
 24 is {hidden}
 
 @Typhon
 0 is 冷却
-13 is 可以刷新
+2 is 可以刷新
 24 is {hidden}
 
 @Garuda
 0 is 冷却
-21 is 可以刷新
+10 is 可以刷新
 24 is {hidden}
 
 @Tonberry
 0 is 冷却
+13 is 可以刷新
 24 is {hidden}
 
 @Gungnir
 0 is 冷却
+17 is 可以刷新
 24 is {hidden}
 
 @Unicorn
 0 is 冷却
+19 is 可以刷新
 24 is {hidden}
 
 @Carbuncle
 0 is 冷却
+20 is 可以刷新
 24 is {hidden}
 
 @Kujata
 0 is 冷却
+20 is 可以刷新
 24 is {hidden}
 
 @enduml
@@ -286,51 +290,56 @@ concise Valefor
 concise Yojimbo
 concise Zeromus
 
-@Alexander
-0 is 可以刷新
-10 is 强制刷新
-24 is {hidden}
-
 @Valefor
 0 is 冷却
-11 is 可以刷新
+0 is 可以刷新
 24 is {hidden}
 
 @Ridill
 0 is 冷却
-17 is 可以刷新
+6 is 可以刷新
 24 is {hidden}
 
 @Ifrit
 0 is 冷却
-19 is 可以刷新
+8 is 可以刷新
 24 is {hidden}
 
 @Bahamut
 0 is 冷却
+12 is 可以刷新
 24 is {hidden}
 
 @Yojimbo
 0 is 冷却
+15 is 可以刷新
 24 is {hidden}
 
 @Ultima
 0 is 冷却
+15 is 可以刷新
 24 is {hidden}
 
 @Tiamat
 0 is 冷却
+16 is 可以刷新
 24 is {hidden}
 
 @Durandal
 0 is 冷却
+18 is 可以刷新
 24 is {hidden}
 
 @Zeromus
 0 is 冷却
+23 is 可以刷新
 24 is {hidden}
 
 @Fenrir
+0 is 冷却
+24 is {hidden}
+
+@Alexander
 0 is 冷却
 24 is {hidden}
 
@@ -356,54 +365,56 @@ concise Shinryu
 concise Titan
 
 @Hades
-0 is 冷却
-10 is 可以刷新
+0 is 可以刷新
 24 is {hidden}
 
 @Belias
-0 is 冷却
-10 is 可以刷新
+0 is 可以刷新
 24 is {hidden}
 
 @Titan
 0 is 冷却
-11 is 可以刷新
+0 is 可以刷新
 24 is {hidden}
 
 @Chocobo
 0 is 冷却
-12 is 可以刷新
+1 is 可以刷新
 24 is {hidden}
 
 @Mandragora
 0 is 冷却
-12 is 可以刷新
+1 is 可以刷新
 24 is {hidden}
 
 @Asura
 0 is 冷却
-21 is 可以刷新
+10 is 可以刷新
 24 is {hidden}
 
 @Masamune
 0 is 冷却
-22 is 可以刷新
+11 is 可以刷新
 24 is {hidden}
 
 @Anima
 0 is 冷却
+16 is 可以刷新
 24 is {hidden}
 
 @Shinryu
 0 is 冷却
+17 is 可以刷新
 24 is {hidden}
 
 @Pandaemonium
 0 is 冷却
+19 is 可以刷新
 24 is {hidden}
 
 @Ixion
 0 is 冷却
+22 is 可以刷新
 24 is {hidden}
 
 @enduml
@@ -426,39 +437,42 @@ concise Siren
 
 @Midgardsormr
 0 is 冷却
-13 is 可以刷新
+2 is 可以刷新
 24 is {hidden}
 
 @Faerie
 0 is 冷却
-15 is 可以刷新
+4 is 可以刷新
 24 is {hidden}
 
 @Siren
 0 is 冷却
-16 is 可以刷新
+5 is 可以刷新
 24 is {hidden}
 
 @Adamantoise
 0 is 冷却
-22 is 可以刷新
+11 is 可以刷新
 24 is {hidden}
 
 @Cactuar
 0 is 冷却
-23 is 可以刷新
+12 is 可以刷新
 24 is {hidden}
 
 @Sargatanas
 0 is 冷却
+12 is 可以刷新
 24 is {hidden}
 
 @Gilgamesh
 0 is 冷却
+19 is 可以刷新
 24 is {hidden}
 
 @Jenova
 0 is 冷却
+20 is 可以刷新
 24 is {hidden}
 
 @enduml
@@ -480,30 +494,32 @@ concise Leviathan
 concise Ultros
 
 @Exodus
-0 is 冷却
-10 is 可以刷新
+0 is 可以刷新
 24 is {hidden}
 
 @Excalibur
 0 is 冷却
-18 is 可以刷新
+7 is 可以刷新
 24 is {hidden}
 
 @Ultros
 0 is 冷却
-20 is 可以刷新
+9 is 可以刷新
 24 is {hidden}
 
 @Behemoth
 0 is 冷却
+16 is 可以刷新
 24 is {hidden}
 
 @Lamia
 0 is 冷却
+17 is 可以刷新
 24 is {hidden}
 
 @Leviathan
 0 is 冷却
+21 is 可以刷新
 24 is {hidden}
 
 @Famfrit
@@ -534,35 +550,37 @@ concise Zalera
 
 @Brynhildr
 0 is 冷却
-13 is 可以刷新
+2 is 可以刷新
 24 is {hidden}
 
 @Coeurl
 0 is 冷却
-15 is 可以刷新
+4 is 可以刷新
 24 is {hidden}
 
 @Diabolos
 0 is 冷却
-15 is 可以刷新
+4 is 可以刷新
 24 is {hidden}
 
 @Balmung
 0 is 冷却
-15 is 可以刷新
+4 is 可以刷新
 24 is {hidden}
 
 @Mateus
 0 is 冷却
-17 is 可以刷新
+5 is 可以刷新
 24 is {hidden}
 
 @Zalera
 0 is 冷却
+15 is 可以刷新
 24 is {hidden}
 
 @Malboro
 0 is 冷却
+16 is 可以刷新
 24 is {hidden}
 
 @Goblin
@@ -586,26 +604,27 @@ concise Ragnarok
 concise Spriggan
 
 @Louisoix
-0 is 冷却
-9 is 可以刷新
+0 is 可以刷新
 24 is {hidden}
 
 @Spriggan
 0 is 冷却
-16 is 可以刷新
+4 is 可以刷新
 24 is {hidden}
 
 @Ragnarok
 0 is 冷却
-23 is 可以刷新
+12 is 可以刷新
 24 is {hidden}
 
 @Moogle
 0 is 冷却
+15 is 可以刷新
 24 is {hidden}
 
 @Omega
 0 is 冷却
+18 is 可以刷新
 24 is {hidden}
 
 @Cerberus
@@ -629,31 +648,32 @@ concise Twintania
 concise Zodiark
 
 @Odin
-0 is 冷却
-10 is 可以刷新
+0 is 可以刷新
 24 is {hidden}
 
 @Lich
 0 is 冷却
-11 is 可以刷新
+0 is 可以刷新
 24 is {hidden}
 
 @Shiva
 0 is 冷却
-12 is 可以刷新
+1 is 可以刷新
 24 is {hidden}
 
 @Phoenix
 0 is 冷却
-22 is 可以刷新
+11 is 可以刷新
 24 is {hidden}
 
 @Twintania
 0 is 冷却
+15 is 可以刷新
 24 is {hidden}
 
 @Zodiark
 0 is 冷却
+19 is 可以刷新
 24 is {hidden}
 
 @enduml
@@ -672,26 +692,26 @@ concise Sophia
 concise Zurvan
 
 @Bismarck
-0 is 冷却
-10 is 可以刷新
+0 is 可以刷新
 24 is {hidden}
 
 @Zurvan
-0 is 冷却
-10 is 可以刷新
+0 is 可以刷新
 24 is {hidden}
 
 @Sephirot
 0 is 冷却
-21 is 可以刷新
+10 is 可以刷新
 24 is {hidden}
 
 @Sophia
 0 is 冷却
+15 is 可以刷新
 24 is {hidden}
 
 @Ravana
 0 is 冷却
+22 is 可以刷新
 24 is {hidden}
 
 @enduml

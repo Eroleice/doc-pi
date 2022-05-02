@@ -2,13 +2,13 @@
 title: 苍白骑士 - the Pale Rider
 description: 3.0 - 龙堡内陆低地
 published: true
-date: 2022-05-01T23:10:40.000Z
+date: 2022-05-02T10:13:12.000Z
 tags: ffxiv, game
 editor: markdown
 dateCreated: 2022-01-01T00:00:00.000Z
 ---
 
-> 本页面由自动化程序生成于 2022年5月1日 23:10
+> 本页面由自动化程序生成于 2022年5月2日 10:13
 > 内容可能存在错误，如有bug请提交issue至：https://github.com/Eroleice/doc-pi/issues
 {.is-warning}
 
@@ -97,10 +97,6 @@ concise 梦羽宝境
 0 is 冷却
 24 is {hidden}
 
-@白银乡
-0 is 冷却
-24 is {hidden}
-
 @白金幻象
 0 is 冷却
 24 is {hidden}
@@ -118,6 +114,10 @@ concise 梦羽宝境
 24 is {hidden}
 
 @拂晓之间
+0 is 冷却
+24 is {hidden}
+
+@白银乡
 0 is 冷却
 24 is {hidden}
 
@@ -219,18 +219,22 @@ concise Unicorn
 
 @Atomos
 0 is 可以刷新
+14 is 强制刷新
 24 is {hidden}
 
 @Typhon
 0 is 冷却
+15 is 可以刷新
 24 is {hidden}
 
 @Tonberry
 0 is 冷却
+21 is 可以刷新
 24 is {hidden}
 
 @Garuda
 0 is 冷却
+22 is 可以刷新
 24 is {hidden}
 
 @Ramuh
@@ -333,10 +337,12 @@ concise Titan
 
 @Mandragora
 0 is 可以刷新
+13 is 强制刷新
 24 is {hidden}
 
 @Ixion
 0 is 可以刷新
+20 is 强制刷新
 24 is {hidden}
 
 @Titan
@@ -349,10 +355,12 @@ concise Titan
 
 @Chocobo
 0 is 冷却
+13 is 可以刷新
 24 is {hidden}
 
 @Shinryu
 0 is 冷却
+23 is 可以刷新
 24 is {hidden}
 
 @Masamune
@@ -390,20 +398,22 @@ concise Sargatanas
 concise Siren
 
 @Siren
-0 is 冷却
-1 is 可以刷新
+0 is 可以刷新
 24 is {hidden}
 
 @Adamantoise
 0 is 冷却
+17 is 可以刷新
 24 is {hidden}
 
 @Sargatanas
 0 is 冷却
+18 is 可以刷新
 24 is {hidden}
 
 @Faerie
 0 is 冷却
+21 is 可以刷新
 24 is {hidden}
 
 @Gilgamesh
@@ -442,11 +452,12 @@ concise Ultros
 
 @Hyperion
 0 is 可以刷新
-18 is 强制刷新
+7 is 强制刷新
 24 is {hidden}
 
 @Excalibur
 0 is 冷却
+18 is 可以刷新
 24 is {hidden}
 
 @Famfrit
@@ -497,18 +508,22 @@ concise Zalera
 
 @Diabolos
 0 is 冷却
+14 is 可以刷新
 24 is {hidden}
 
 @Brynhildr
 0 is 冷却
+17 is 可以刷新
 24 is {hidden}
 
 @Malboro
 0 is 冷却
+21 is 可以刷新
 24 is {hidden}
 
 @Coeurl
 0 is 冷却
+22 is 可以刷新
 24 is {hidden}
 
 @Goblin
@@ -536,13 +551,11 @@ concise Ragnarok
 concise Spriggan
 
 @Spriggan
-0 is 冷却
-2 is 可以刷新
+0 is 可以刷新
 24 is {hidden}
 
 @Cerberus
-0 is 冷却
-4 is 可以刷新
+0 is 可以刷新
 24 is {hidden}
 
 @Louisoix
@@ -577,11 +590,6 @@ concise Shiva
 concise Twintania
 concise Zodiark
 
-@Phoenix
-0 is 可以刷新
-1 is 强制刷新
-24 is {hidden}
-
 @Shiva
 0 is 冷却
 24 is {hidden}
@@ -595,6 +603,10 @@ concise Zodiark
 24 is {hidden}
 
 @Twintania
+0 is 冷却
+24 is {hidden}
+
+@Phoenix
 0 is 冷却
 24 is {hidden}
 
@@ -618,12 +630,12 @@ concise Sophia
 concise Zurvan
 
 @Ravana
-0 is 冷却
-9 is 可以刷新
+0 is 可以刷新
 24 is {hidden}
 
 @Sephirot
 0 is 冷却
+20 is 可以刷新
 24 is {hidden}
 
 @Bismarck

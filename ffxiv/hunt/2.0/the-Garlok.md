@@ -2,13 +2,13 @@
 title: 伽洛克 - the Garlok
 description: 2.0 - 东拉诺西亚
 published: true
-date: 2022-05-01T23:10:40.000Z
+date: 2022-05-02T10:13:12.000Z
 tags: ffxiv, game
 editor: markdown
 dateCreated: 2022-01-01T00:00:00.000Z
 ---
 
-> 本页面由自动化程序生成于 2022年5月1日 23:10
+> 本页面由自动化程序生成于 2022年5月2日 10:13
 > 内容可能存在错误，如有bug请提交issue至：https://github.com/Eroleice/doc-pi/issues
 {.is-warning}
 
@@ -61,26 +61,26 @@ concise 晨曦王座
 
 @宇宙和音
 0 is 冷却
-0 is 可以刷新
-0 is 强制刷新
+4 is 可以刷新
+4 is 强制刷新
 24 is {hidden}
 
 @沃仙曦染
 0 is 冷却
-0 is 可以刷新
-0 is 强制刷新
+4 is 可以刷新
+4 is 强制刷新
 24 is {hidden}
 
 @红玉海
 0 is 冷却
-0 is 可以刷新
-0 is 强制刷新
+4 is 可以刷新
+4 is 强制刷新
 24 is {hidden}
 
 @幻影群岛
 0 is 冷却
-0 is 可以刷新
-0 is 强制刷新
+4 is 可以刷新
+4 is 强制刷新
 24 is {hidden}
 
 @enduml
@@ -119,26 +119,26 @@ concise 梦羽宝境
 
 @拂晓之间
 0 is 冷却
-0 is 可以刷新
-0 is 强制刷新
+4 is 可以刷新
+4 is 强制刷新
 24 is {hidden}
 
 @梦羽宝境
 0 is 冷却
-0 is 可以刷新
-0 is 强制刷新
+4 is 可以刷新
+4 is 强制刷新
 24 is {hidden}
 
 @旅人栈桥
 0 is 冷却
-0 is 可以刷新
-0 is 强制刷新
+4 is 可以刷新
+4 is 强制刷新
 24 is {hidden}
 
 @龙巢神殿
 0 is 冷却
-0 is 可以刷新
-0 is 强制刷新
+4 is 可以刷新
+4 is 强制刷新
 24 is {hidden}
 
 @enduml
@@ -180,14 +180,14 @@ concise 琥珀原
 
 @摩杜纳
 0 is 冷却
-0 is 可以刷新
-0 is 强制刷新
+4 is 可以刷新
+4 is 强制刷新
 24 is {hidden}
 
 @紫水栈桥
 0 is 冷却
-0 is 可以刷新
-0 is 强制刷新
+4 is 可以刷新
+4 is 强制刷新
 24 is {hidden}
 
 @enduml
@@ -207,32 +207,32 @@ concise 红茶川
 
 @太阳海岸
 0 is 冷却
-0 is 可以刷新
-0 is 强制刷新
+4 is 可以刷新
+4 is 强制刷新
 24 is {hidden}
 
 @红茶川
 0 is 冷却
-0 is 可以刷新
-0 is 强制刷新
+4 is 可以刷新
+4 is 强制刷新
 24 is {hidden}
 
 @水晶塔
 0 is 冷却
-0 is 可以刷新
-0 is 强制刷新
+4 is 可以刷新
+4 is 强制刷新
 24 is {hidden}
 
 @银泪湖
 0 is 冷却
-0 is 可以刷新
-0 is 强制刷新
+4 is 可以刷新
+4 is 强制刷新
 24 is {hidden}
 
 @伊修加德
 0 is 冷却
-0 is 可以刷新
-0 is 强制刷新
+4 is 可以刷新
+4 is 强制刷新
 24 is {hidden}
 
 @enduml
@@ -289,14 +289,14 @@ concise Unicorn
 
 @Garuda
 0 is 冷却
-0 is 可以刷新
-0 is 强制刷新
+4 is 可以刷新
+4 is 强制刷新
 24 is {hidden}
 
 @Ramuh
 0 is 冷却
-0 is 可以刷新
-0 is 强制刷新
+4 is 可以刷新
+4 is 强制刷新
 24 is {hidden}
 
 @enduml
@@ -362,8 +362,8 @@ concise Zeromus
 
 @Tiamat
 0 is 冷却
-0 is 可以刷新
-0 is 强制刷新
+4 is 可以刷新
+4 is 强制刷新
 24 is {hidden}
 
 @enduml
@@ -425,14 +425,14 @@ concise Titan
 
 @Belias
 0 is 冷却
-0 is 可以刷新
-0 is 强制刷新
+4 is 可以刷新
+4 is 强制刷新
 24 is {hidden}
 
 @Ixion
 0 is 冷却
-0 is 可以刷新
-0 is 强制刷新
+4 is 可以刷新
+4 is 强制刷新
 24 is {hidden}
 
 @enduml
@@ -479,14 +479,14 @@ concise Siren
 
 @Sargatanas
 0 is 冷却
-0 is 可以刷新
-0 is 强制刷新
+4 is 可以刷新
+4 is 强制刷新
 24 is {hidden}
 
 @Siren
 0 is 冷却
-0 is 可以刷新
-0 is 强制刷新
+4 is 可以刷新
+4 is 强制刷新
 24 is {hidden}
 
 @enduml
@@ -537,8 +537,8 @@ concise Ultros
 
 @Hyperion
 0 is 冷却
-0 is 可以刷新
-0 is 强制刷新
+4 is 可以刷新
+4 is 强制刷新
 24 is {hidden}
 
 @enduml
@@ -589,8 +589,8 @@ concise Zalera
 
 @Diabolos
 0 is 冷却
-0 is 可以刷新
-0 is 强制刷新
+4 is 可以刷新
+4 is 强制刷新
 24 is {hidden}
 
 @enduml
@@ -619,26 +619,26 @@ concise Spriggan
 
 @Louisoix
 0 is 冷却
-0 is 可以刷新
-0 is 强制刷新
+4 is 可以刷新
+4 is 强制刷新
 24 is {hidden}
 
 @Ragnarok
 0 is 冷却
-0 is 可以刷新
-0 is 强制刷新
+4 is 可以刷新
+4 is 强制刷新
 24 is {hidden}
 
 @Cerberus
 0 is 冷却
-0 is 可以刷新
-0 is 强制刷新
+4 is 可以刷新
+4 is 强制刷新
 24 is {hidden}
 
 @Omega
 0 is 冷却
-0 is 可以刷新
-0 is 强制刷新
+4 is 可以刷新
+4 is 强制刷新
 24 is {hidden}
 
 @enduml
@@ -675,14 +675,14 @@ concise Zodiark
 
 @Odin
 0 is 冷却
-0 is 可以刷新
-0 is 强制刷新
+4 is 可以刷新
+4 is 强制刷新
 24 is {hidden}
 
 @Shiva
 0 is 冷却
-0 is 可以刷新
-0 is 强制刷新
+4 is 可以刷新
+4 is 强制刷新
 24 is {hidden}
 
 @enduml

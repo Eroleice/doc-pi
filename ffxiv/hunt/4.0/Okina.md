@@ -2,13 +2,13 @@
 title: 巨大鳐 - Okina
 description: 4.0 - 红玉海
 published: true
-date: 2022-05-01T23:10:41.000Z
+date: 2022-05-02T10:13:12.000Z
 tags: ffxiv, game
 editor: markdown
 dateCreated: 2022-01-01T00:00:00.000Z
 ---
 
-> 本页面由自动化程序生成于 2022年5月1日 23:10
+> 本页面由自动化程序生成于 2022年5月2日 10:13
 > 内容可能存在错误，如有bug请提交issue至：https://github.com/Eroleice/doc-pi/issues
 {.is-warning}
 
@@ -43,7 +43,7 @@ concise 宇宙和音
 concise 沃仙曦染
 concise 晨曦王座
 
-@晨曦王座
+@幻影群岛
 0 is 冷却
 24 is {hidden}
 
@@ -51,19 +51,7 @@ concise 晨曦王座
 0 is 冷却
 24 is {hidden}
 
-@宇宙和音
-0 is 冷却
-24 is {hidden}
-
 @拉诺西亚
-0 is 冷却
-24 is {hidden}
-
-@神意之地
-0 is 冷却
-24 is {hidden}
-
-@沃仙曦染
 0 is 冷却
 24 is {hidden}
 
@@ -71,7 +59,19 @@ concise 晨曦王座
 0 is 冷却
 24 is {hidden}
 
-@幻影群岛
+@宇宙和音
+0 is 冷却
+24 is {hidden}
+
+@沃仙曦染
+0 is 冷却
+24 is {hidden}
+
+@神意之地
+0 is 冷却
+24 is {hidden}
+
+@晨曦王座
 0 is 冷却
 24 is {hidden}
 
@@ -97,10 +97,6 @@ concise 梦羽宝境
 0 is 冷却
 24 is {hidden}
 
-@白银乡
-0 is 冷却
-24 is {hidden}
-
 @拂晓之间
 0 is 冷却
 24 is {hidden}
@@ -114,6 +110,10 @@ concise 梦羽宝境
 24 is {hidden}
 
 @梦羽宝境
+0 is 冷却
+24 is {hidden}
+
+@白银乡
 0 is 冷却
 24 is {hidden}
 
@@ -146,19 +146,19 @@ concise 琥珀原
 0 is 冷却
 24 is {hidden}
 
-@摩杜纳
-0 is 冷却
-24 is {hidden}
-
-@静语庄园
-0 is 冷却
-24 is {hidden}
-
 @柔风海湾
 0 is 冷却
 24 is {hidden}
 
 @紫水栈桥
+0 is 冷却
+24 is {hidden}
+
+@摩杜纳
+0 is 冷却
+24 is {hidden}
+
+@静语庄园
 0 is 冷却
 24 is {hidden}
 
@@ -215,7 +215,7 @@ concise Unicorn
 
 @Tonberry
 0 is 冷却
-15 is 可以刷新
+4 is 可以刷新
 24 is {hidden}
 
 @Ramuh
@@ -273,16 +273,17 @@ concise Zeromus
 
 @Ultima
 0 is 可以刷新
-21 is 强制刷新
+10 is 强制刷新
 24 is {hidden}
 
 @Yojimbo
 0 is 可以刷新
-23 is 强制刷新
+12 is 强制刷新
 24 is {hidden}
 
 @Ifrit
 0 is 可以刷新
+14 is 强制刷新
 24 is {hidden}
 
 @Valefor
@@ -398,12 +399,12 @@ concise Siren
 
 @Adamantoise
 0 is 可以刷新
-22 is 强制刷新
+11 is 强制刷新
 24 is {hidden}
 
 @Jenova
 0 is 冷却
-12 is 可以刷新
+1 is 可以刷新
 24 is {hidden}
 
 @Midgardsormr
@@ -448,26 +449,6 @@ concise Lamia
 concise Leviathan
 concise Ultros
 
-@Hyperion
-0 is 可以刷新
-20 is 强制刷新
-24 is {hidden}
-
-@Famfrit
-0 is 冷却
-11 is 可以刷新
-24 is {hidden}
-
-@Exodus
-0 is 冷却
-12 is 可以刷新
-24 is {hidden}
-
-@Lamia
-0 is 冷却
-14 is 可以刷新
-24 is {hidden}
-
 @Excalibur
 0 is 冷却
 24 is {hidden}
@@ -481,6 +462,22 @@ concise Ultros
 24 is {hidden}
 
 @Ultros
+0 is 冷却
+24 is {hidden}
+
+@Exodus
+0 is 冷却
+24 is {hidden}
+
+@Famfrit
+0 is 冷却
+24 is {hidden}
+
+@Lamia
+0 is 冷却
+24 is {hidden}
+
+@Hyperion
 0 is 冷却
 24 is {hidden}
 
@@ -502,28 +499,9 @@ concise Malboro
 concise Mateus
 concise Zalera
 
-@Diabolos
-0 is 可以刷新
-20 is 强制刷新
-24 is {hidden}
-
-@Balmung
-0 is 冷却
-11 is 可以刷新
-24 is {hidden}
-
-@Brynhildr
-0 is 冷却
-12 is 可以刷新
-24 is {hidden}
-
 @Zalera
 0 is 冷却
-17 is 可以刷新
-24 is {hidden}
-
-@Goblin
-0 is 冷却
+6 is 可以刷新
 24 is {hidden}
 
 @Malboro
@@ -535,6 +513,22 @@ concise Zalera
 24 is {hidden}
 
 @Coeurl
+0 is 冷却
+24 is {hidden}
+
+@Goblin
+0 is 冷却
+24 is {hidden}
+
+@Diabolos
+0 is 冷却
+24 is {hidden}
+
+@Balmung
+0 is 冷却
+24 is {hidden}
+
+@Brynhildr
 0 is 冷却
 24 is {hidden}
 
@@ -596,7 +590,7 @@ concise Zodiark
 
 @Shiva
 0 is 冷却
-18 is 可以刷新
+7 is 可以刷新
 24 is {hidden}
 
 @Zodiark
@@ -635,8 +629,7 @@ concise Sophia
 concise Zurvan
 
 @Ravana
-0 is 冷却
-10 is 可以刷新
+0 is 可以刷新
 24 is {hidden}
 
 @Sophia
